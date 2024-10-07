@@ -1,0 +1,635 @@
+"population","pop2024","pop2023","pop2022","pop2020","pop2010","growth","region","city","usps","state","countyFips","county","densityMi","slug","areaMi","lng","lat","type","rank"
+759915,759915,755078,749134,740565,610654,0.00641,"West","Seattle","WA","Washington","53033","King County",9047,"washington/seattle",84,-122.352,47.6193,"City",1
+229527,229527,229447,230405,229205,209537,0.00035,"East","Spokane","WA","Washington","53063|53065","Spokane County",3338,"washington/spokane",68.76,-117.433,47.6669,"City",2
+223968,223968,222906,221731,219719,198324,0.00476,"West","Tacoma","WA","Washington","53053|53033","Pierce County",4505,"washington/tacoma",49.714,-122.46,47.2522,"City",3
+198163,198163,196442,194500,191278,167614,0.00876,"Southwest","Vancouver","WA","Washington","53011","Clark County",4065,"washington/vancouver",48.748,-122.597,45.6372,"City",4
+151505,151505,151574,152745,151780,128360,-0.00046,"West","Bellevue","WA","Washington","53033","King County",4527,"washington/bellevue",33.468,-122.156,47.5978,"City",5
+132306,132306,133378,134429,136592,119071,-0.00804,"West","Kent","WA","Washington","53033|53053","King County",3911,"washington/kent",33.833,-122.213,47.388,"City",6
+111275,111275,111180,111584,110893,103086,0.00085,"Northwest","Everett","WA","Washington","53061","Snohomish County",3312,"washington/everett",33.601,-122.19,47.9654,"City",7
+109803,109803,108235,107377,103531,90052,0.01449,"East","Spokane Valley","WA","Washington","53063","Spokane County",2911,"washington/spokane-valley",37.72,-117.233,47.6634,"City",8
+103748,103748,104491,104067,106719,92372,-0.00711,"West","Renton","WA","Washington","53033","King County",4407,"washington/renton",23.54,-122.195,47.4792,"City",9
+96645,96645,96750,96825,97063,91647,-0.00109,"South","Yakima","WA","Washington","53037|53077","Kittitas County",3469,"washington/yakima",27.86,-120.549,46.5909,"City",10
+96605,96605,97701,97881,100988,89524,-0.01122,"West","Federal Way","WA","Washington","53033|53053","King County",4326,"washington/federal-way",22.329,-122.338,47.3116,"City",11
+95669,95669,94720,93942,91871,81705,0.01002,"Northwest","Bellingham","WA","Washington","53073|53057","Whatcom County",3393,"washington/bellingham",28.198,-122.47,48.7534,"City",12
+90679,90679,91194,90856,92739,80869,-0.00565,"West","Kirkland","WA","Washington","53033|53061","King County",5093,"washington/kirkland",17.806,-122.204,47.6967,"City",13
+85549,85549,85158,84787,83984,74448,0.00459,"Southeast","Kennewick","WA","Washington","53005","Benton County",3001,"washington/kennewick",28.504,-119.176,46.1976,"City",14
+82812,82812,83870,84855,87043,70560,-0.01261,"West","Auburn","WA","Washington","53033|53053","King County",2800,"washington/auburn",29.577,-122.21,47.3038,"City",15
+82588,82588,80280,76712,73354,54731,0.02875,"West","Redmond","WA","Washington","53033","King County",4985,"washington/redmond",16.567,-122.115,47.6779,"City",16
+80821,80821,80038,79457,77687,62925,0.00978,"Southeast","Pasco","WA","Washington","53021","Franklin County",2074,"washington/pasco",38.963,-119.121,46.2661,"City",17
+73561,73561,72916,72336,70981,60206,0.00885,"Northwest","Marysville","WA","Washington","53061|53057","Snohomish County",3545,"washington/marysville",20.753,-122.154,48.0802,"City",18
+70402,70402,69119,67835,64104,52431,0.01856,"West","South Hill","WA","Washington","53053","Pierce County",3788,"washington/south-hill",18.585,-122.285,47.1207,"CDP",19
+64706,64706,63757,62865,60908,48877,0.01488,"Southeast","Richland","WA","Washington","53005","Benton County",1623,"washington/richland",39.868,-119.294,46.2841,"City",20
+64340,64340,65116,65854,67444,57656,-0.01192,"West","Sammamish","WA","Washington","53033","King County",3150,"washington/sammamish",20.427,-122.038,47.5943,"City",21
+62199,62199,61353,59684,58815,53182,0.01379,"West","Shoreline","WA","Washington","53033","King County",5346,"washington/shoreline",11.635,-122.346,47.7569,"City",22
+61866,61866,62303,62575,63614,57601,-0.00701,"West","Lakewood","WA","Washington","53053","Pierce County",3626,"washington/lakewood",17.06,-122.528,47.1641,"City",23
+58860,58860,58326,58157,56722,42725,0.00916,"West","Lacey","WA","Washington","53067","Thurston County",3170,"washington/lacey",18.565,-122.798,47.0431,"City",24
+55774,55774,55733,55748,55608,47083,0.00074,"West","Olympia","WA","Washington","53067|53045","Thurston County",3061,"washington/olympia",18.221,-122.895,47.0406,"City",25
+50894,50894,50213,49030,48169,39957,0.01356,"West","Bothell","WA","Washington","53033|53061","King County",3733,"washington/bothell",13.635,-122.204,47.7735,"City",26
+50310,50310,50730,50811,51989,48224,-0.00828,"West","Burien","WA","Washington","53033","King County",5011,"washington/burien",10.039,-122.345,47.4756,"City",27
+46058,46058,45450,45354,43624,37897,0.01338,"West","Bremerton","WA","Washington","53035|53045","Kitsap County",1620,"washington/bremerton",28.43,-122.717,47.5399,"City",28
+45640,45640,43867,43219,38548,35920,0.04042,"West","Lynnwood","WA","Washington","53061","Snohomish County",5794,"washington/lynnwood",7.877,-122.301,47.829,"City",29
+42658,42658,42701,42632,42829,39748,-0.00101,"West","Edmonds","WA","Washington","53061","Snohomish County",4784,"washington/edmonds",8.916,-122.353,47.8136,"City",30
+41894,41894,42179,42456,43033,37228,-0.00676,"West","Puyallup","WA","Washington","53053","Pierce County",2917,"washington/puyallup",14.364,-122.292,47.179,"City",31
+40988,40988,40521,39899,39118,28469,0.01152,"Northwest","Lake Stevens","WA","Washington","53061","Snohomish County",4034,"washington/lake-stevens",10.161,-122.097,48.0034,"City",32
+39997,39997,39698,39398,37946,35803,0.00753,"West","Parkland","WA","Washington","53053","Pierce County",4628,"washington/parkland",8.643,-122.438,47.1415,"CDP",33
+38604,38604,38977,39351,40094,30552,-0.00957,"West","Issaquah","WA","Washington","53033","King County",3183,"washington/issaquah",12.13,-122.049,47.5445,"City",34
+37943,37943,37925,37826,37869,36794,0.00047,"Southwest","Longview","WA","Washington","53015|53069","Cowlitz County",2564,"washington/longview",14.798,-122.964,46.1457,"City",35
+36659,36659,35719,34778,32505,23491,0.02632,"West","Graham","WA","Washington","53053","Pierce County",859,"washington/graham",42.681,-122.277,47.0343,"CDP",36
+35522,35522,35526,35500,35536,32948,-0.00011,"Central","Wenatchee","WA","Washington","53007","Chelan County",3342,"washington/wenatchee",10.628,-120.329,47.436,"City",37
+35243,35243,35259,35564,35306,31752,-0.00045,"Northwest","Mount Vernon","WA","Washington","53057","Skagit County",2866,"washington/mount-vernon",12.298,-122.312,48.4171,"City",38
+35146,35146,34581,34015,33776,27227,0.01634,"West","Spanaway","WA","Washington","53053","Pierce County",4019,"washington/spanaway",8.745,-122.423,47.0981,"CDP",39
+35098,35098,35049,34633,34902,31108,0.0014,"West","University Place","WA","Washington","53053","Pierce County",4208,"washington/university-place",8.34,-122.547,47.2154,"City",40
+33056,33056,33339,33491,34186,32522,-0.00849,"Southeast","Walla Walla","WA","Washington","41059|53071","Umatilla County",2354,"washington/walla-walla",14.04,-118.337,46.067,"City",41
+32865,32865,32863,32465,32855,29834,0.00006,"Southeast","Pullman","WA","Washington","53075","Whitman County",2955,"washington/pullman",11.123,-117.168,46.7331,"City",42
+31937,31937,31799,30513,31384,26999,0.00434,"West","SeaTac","WA","Washington","53033","King County",3173,"washington/seatac",10.064,-122.298,47.4434,"City",43
+31688,31688,31988,32426,32887,29775,-0.00938,"West","Des Moines","WA","Washington","53033","King County",4940,"washington/des-moines",6.414,-122.318,47.3887,"City",44
+30824,30824,30019,29214,26289,19556,0.02682,"Southwest","Orchards","WA","Washington","53011","Clark County",5758,"washington/orchards",5.353,-122.531,45.689,"CDP",45
+28550,28550,28434,28214,28085,22854,0.00408,"West","Maple Valley","WA","Washington","53033","King County",4755,"washington/maple-valley",6.004,-122.035,47.3671,"City",46
+27605,27605,27239,26856,26140,20162,0.01344,"West","Tumwater","WA","Washington","53067|53045","Thurston County",1556,"washington/tumwater",17.744,-122.917,46.9895,"City",47
+27518,27518,27254,27360,26461,19914,0.00969,"Southwest","Camas","WA","Washington","53011|53059","Clark County",1952,"washington/camas",14.1,-122.43,45.6018,"City",48
+26901,26901,26101,25302,24643,15709,0.03065,"West","Mill Creek East","WA","Washington","53061","Snohomish County",6047,"washington/mill-creek-east",4.449,-122.188,47.8361,"CDP",49
+26616,26616,26299,26004,25348,20460,0.01205,"East","Moses Lake","WA","Washington","53025","Grant County",1468,"washington/moses-lake",18.136,-119.276,47.1278,"City",50
+25745,25745,25243,24741,22290,18719,0.01989,"West","Frederickson","WA","Washington","53053","Pierce County",2276,"washington/frederickson",11.311,-122.362,47.0918,"CDP",51
+25512,25512,24873,24235,24084,16574,0.02569,"West","North Lynnwood","WA","Washington","53061","Snohomish County",8159,"washington/north-lynnwood",3.127,-122.276,47.8533,"CDP",52
+24557,24557,23908,23259,21987,15473,0.02715,"West","Martha Lake","WA","Washington","53061","Snohomish County",5394,"washington/martha-lake",4.553,-122.233,47.8447,"CDP",53
+24407,24407,24742,25026,25747,22770,-0.01354,"West","Mercer Island","WA","Washington","53033","King County",3824,"washington/mercer-island",6.383,-122.231,47.564,"City",54
+24059,24059,24254,24510,24837,23062,-0.00804,"West","Bainbridge Island","WA","Washington","53035","Kitsap County",871,"washington/bainbridge-island",27.614,-122.508,47.6425,"City",55
+23901,23901,23537,23173,23114,18805,0.01547,"West","Union Hill-Novelty Hill","WA","Washington","53033|53061","King County",986,"washington/union-hill-novelty-hill",24.244,-122.023,47.6823,"CDP",56
+23813,23813,24016,24263,24625,22212,-0.00845,"Northwest","Oak Harbor","WA","Washington","53029","Island County",2467,"washington/oak-harbor",9.651,-122.628,48.2938,"City",57
+23685,23685,23429,23173,22829,20101,0.01093,"Northwest","Eastmont","WA","Washington","53061","Snohomish County",4631,"washington/eastmont",5.114,-122.182,47.8974,"CDP",58
+23356,23356,23295,23233,23239,22494,0.00262,"West","Cottage Lake","WA","Washington","53033|53061","King County",1027,"washington/cottage-lake",22.736,-122.076,47.7465,"CDP",59
+23260,23260,22987,22714,21830,19435,0.01188,"Southwest","Hazel Dell","WA","Washington","53011","Clark County",4812,"washington/hazel-dell",4.834,-122.653,45.6819,"CDP",60
+23224,23224,23391,23481,23891,20588,-0.00714,"West","Kenmore","WA","Washington","53033","King County",3774,"washington/kenmore",6.154,-122.247,47.7499,"City",61
+22838,22838,22835,22881,22824,17619,0.00013,"West","Bonney Lake","WA","Washington","53053","Pierce County",2779,"washington/bonney-lake",8.218,-122.163,47.1995,"City",62
+22758,22758,22285,21625,20864,17845,0.02123,"Southwest","Battle Ground","WA","Washington","53011","Clark County",2621,"washington/battle-ground",8.682,-122.541,45.7768,"City",63
+22453,22453,22342,22230,22564,20891,0.00497,"West","Silver Firs","WA","Washington","53061","Snohomish County",3275,"washington/silver-firs",6.855,-122.15,47.8635,"CDP",64
+22202,22202,21988,21774,21858,19204,0.00973,"West","Silverdale","WA","Washington","53035|53045","Kitsap County",1757,"washington/silverdale",12.633,-122.682,47.6677,"CDP",65
+21594,21594,21206,21116,20042,17987,0.0183,"Northwest","Arlington","WA","Washington","53061","Snohomish County",2166,"washington/arlington",9.97,-122.145,48.1704,"City",66
+21593,21593,21516,21559,21283,19908,0.00358,"West","Mountlake Terrace","WA","Washington","53061","Snohomish County",5324,"washington/mountlake-terrace",4.056,-122.303,47.7943,"City",67
+21376,21376,21146,20916,19415,18159,0.01088,"Southwest","Five Corners","WA","Washington","53011","Clark County",3670,"washington/five-corners",5.824,-122.571,45.6892,"CDP",68
+21212,21212,21125,21371,20863,17628,0.00412,"West","Covington","WA","Washington","53033","King County",3576,"washington/covington",5.932,-122.105,47.3648,"City",69
+21184,21184,20857,20530,19899,16607,0.01568,"West","Bothell West","WA","Washington","53061","Snohomish County",5108,"washington/bothell-west",4.147,-122.24,47.8056,"CDP",70
+20928,20928,21135,21377,21754,19161,-0.00979,"West","Tukwila","WA","Washington","53033","King County",2278,"washington/tukwila",9.185,-122.276,47.4763,"City",71
+20842,20842,21011,21122,21516,20286,-0.00804,"Northwest","Mukilteo","WA","Washington","53061","Snohomish County",3335,"washington/mukilteo",6.249,-122.302,47.913,"City",72
+20686,20686,20742,20854,20910,18268,-0.0027,"West","Mill Creek","WA","Washington","53061","Snohomish County",4454,"washington/mill-creek",4.644,-122.211,47.8652,"City",73
+20582,20582,19112,17642,17073,0,0.07692,"Northwest","Camano","WA","Washington","53029|53061","Island County",518,"washington/camano",39.755,-122.462,48.1525,"CDP",74
+20416,20416,20364,20312,19506,19686,0.00255,"Southwest","Salmon Creek","WA","Washington","53011","Clark County",3217,"washington/salmon-creek",6.347,-122.663,45.7099,"CDP",75
+20132,20132,20101,20160,20007,19058,0.00154,"Northwest","Port Angeles","WA","Washington","53009","Clallam County",1880,"washington/port-angeles",10.711,-123.448,48.1192,"City",76
+19253,19253,19447,19378,20029,17369,-0.00998,"West","Monroe","WA","Washington","53061","Snohomish County",3020,"washington/monroe",6.375,-121.984,47.8598,"City",77
+19145,19145,18456,17797,16388,11990,0.03733,"Southeast","West Richland","WA","Washington","53005","Benton County",866,"washington/west-richland",22.115,-119.388,46.3138,"City",78
+18915,18915,18754,18696,18269,16697,0.00858,"Southwest","Centralia","WA","Washington","53041|53067","Lewis County",2482,"washington/centralia",7.621,-122.971,46.722,"City",79
+18728,18728,17950,17090,15614,12220,0.04334,"West","Port Orchard","WA","Washington","53035","Kitsap County",1942,"washington/port-orchard",9.644,-122.632,47.5384,"City",80
+18530,18530,18571,18612,19400,19102,-0.00221,"West","Fairwood","WA","Washington","53033","King County",3907,"washington/fairwood-king-county",4.743,-122.143,47.4468,"CDP",81
+18463,18463,18694,18685,19385,18332,-0.01236,"Central","Ellensburg","WA","Washington","53037","Kittitas County",2219,"washington/ellensburg",8.321,-120.55,47.0012,"City",82
+18430,18430,18231,18032,17643,15645,0.01092,"West","Bryn Mawr-Skyway","WA","Washington","53033","King County",6458,"washington/bryn-mawr-skyway",2.854,-122.241,47.495,"CDP",83
+18121,18121,18012,18021,17683,15763,0.00605,"Northwest","Anacortes","WA","Washington","53055|53057","San Juan County",1549,"washington/anacortes",11.697,-122.624,48.4887,"City",84
+17009,17009,17014,17109,17028,16865,-0.00029,"West","Aberdeen","WA","Washington","53027|53045","Grays Harbor County",1564,"washington/aberdeen",10.873,-123.811,46.9752,"City",85
+16964,16964,16985,16937,17047,14193,-0.00124,"Southwest","Washougal","WA","Washington","53011|53059","Clark County",2850,"washington/washougal",5.952,-122.346,45.5828,"City",86
+16797,16797,16551,16186,15813,12059,0.01486,"Northwest","Lynden","WA","Washington","53073","Whatcom County",3091,"washington/lynden",5.435,-122.455,48.9499,"City",87
+16423,16423,15027,14233,10839,4809,0.0929,"Southwest","Ridgefield","WA","Washington","53011","Clark County",2219,"washington/ridgefield",7.402,-122.705,45.8116,"City",88
+16281,16281,15992,15849,15123,11493,0.01807,"Northwest","Ferndale","WA","Washington","53073","Whatcom County",2317,"washington/ferndale",7.026,-122.589,48.8526,"City",89
+16219,16219,16264,16279,16398,15986,-0.00277,"South","Sunnyside","WA","Washington","53077|53005","Yakima County",2148,"washington/sunnyside",7.552,-120.006,46.3157,"City",90
+15816,15816,15242,14668,14306,7777,0.03766,"West","Lake Stickney","WA","Washington","53061","Snohomish County",7952,"washington/lake-stickney",1.989,-122.253,47.8758,"CDP",91
+15810,15810,15644,15479,15995,13495,0.01061,"West","White Center","WA","Washington","53033","King County",6949,"washington/white-center",2.275,-122.348,47.5092,"CDP",92
+15296,15296,15128,14960,14042,12942,0.01111,"West","Lakeland North","WA","Washington","53033","King County",4762,"washington/lakeland-north",3.212,-122.282,47.3373,"CDP",93
+14936,14936,14442,13948,13164,8018,0.03421,"West","Bothell East","WA","Washington","53061","Snohomish County",7126,"washington/bothell-east",2.096,-122.184,47.8064,"CDP",94
+14227,14227,14226,14224,15192,14205,0.00007,"West","Elk Plain","WA","Washington","53053","Pierce County",1698,"washington/elk-plain",8.38,-122.366,47.0419,"CDP",95
+14096,14096,14102,14042,14119,13206,-0.00043,"Central","East Wenatchee","WA","Washington","53017","Douglas County",3720,"washington/east-wenatchee",3.789,-120.284,47.4174,"City",96
+14064,14064,13963,13862,14024,12653,0.00723,"West","Artondale","WA","Washington","53053","Pierce County",1051,"washington/artondale",13.376,-122.652,47.3036,"CDP",97
+13839,13839,13640,13440,13045,11046,0.01459,"West","Fort Lewis","WA","Washington","53053","Pierce County",1345,"washington/fort-lewis",10.289,-122.567,47.0955,"CDP",98
+13800,13800,13718,13255,13472,10977,0.00598,"West","Woodinville","WA","Washington","53033|53061","King County",2458,"washington/woodinville",5.615,-122.147,47.7577,"City",99
+13538,13538,13257,12890,12412,9370,0.0212,"West","Edgewood","WA","Washington","53033|53053","King County",1615,"washington/edgewood",8.385,-122.286,47.2321,"City",100
+13538,13538,13188,12659,12137,7618,0.02654,"East","Liberty Lake","WA","Washington","53063","Spokane County",2134,"washington/liberty-lake",6.344,-117.104,47.6684,"City",101
+13258,13258,13465,13622,14084,10756,-0.01537,"West","Snoqualmie","WA","Washington","53033","King County",1847,"washington/snoqualmie",7.177,-121.869,47.5432,"City",102
+13098,13098,12940,12929,12465,11057,0.01221,"Northwest","Sedro-Woolley","WA","Washington","53057|53073","Skagit County",3013,"washington/sedro-woolley",4.347,-122.232,48.5114,"City",103
+12806,12806,13006,13179,13606,12639,-0.01538,"West","Lake Forest Park","WA","Washington","53033","King County",3641,"washington/lake-forest-park",3.517,-122.292,47.7589,"City",104
+12779,12779,12604,12481,12077,7124,0.01388,"West","Gig Harbor","WA","Washington","53053","Pierce County",2165,"washington/gig-harbor",5.902,-122.601,47.3384,"City",105
+12778,12778,12692,12606,12467,11574,0.00678,"West","Lakeland South","WA","Washington","53033|53053","King County",2607,"washington/lakeland-south",4.901,-122.285,47.2761,"CDP",106
+12721,12721,12697,12720,12623,11130,0.00189,"West","Enumclaw","WA","Washington","53033|53053","King County",2458,"washington/enumclaw",5.176,-121.989,47.2022,"City",107
+12633,12633,12761,12905,13144,10396,-0.01003,"West","Newcastle","WA","Washington","53033","King County",2848,"washington/newcastle",4.435,-122.166,47.5315,"City",108
+12620,12620,12648,12706,12731,11902,-0.00221,"Southwest","Kelso","WA","Washington","53015|53069","Cowlitz County",1551,"washington/kelso",8.135,-122.886,46.1168,"City",109
+12607,12607,12526,12444,11980,11464,0.00647,"West","Prairie Ridge","WA","Washington","53053","Pierce County",2987,"washington/prairie-ridge",4.22,-122.139,47.1444,"CDP",110
+12368,12368,12620,12755,13374,10731,-0.01997,"East","Cheney","WA","Washington","53063|53075","Spokane County",2848,"washington/cheney",4.342,-117.582,47.4911,"City",111
+12252,12252,12224,12196,12129,11859,0.00229,"West","Lake Tapps","WA","Washington","53053","Pierce County",1000,"washington/lake-tapps",12.255,-122.171,47.2307,"CDP",112
+12236,12236,12157,12079,12576,11140,0.0065,"West","East Renton Highlands","WA","Washington","53033","King County",1102,"washington/east-renton-highlands",11.099,-122.088,47.4738,"CDP",113
+12234,12234,12171,12049,11980,9283,0.00518,"West","Poulsbo","WA","Washington","53035","Kitsap County",2564,"washington/poulsbo",4.771,-122.642,47.7411,"City",114
+11884,11884,11733,11582,11387,9771,0.01287,"Southwest","Minnehaha","WA","Washington","53011","Clark County",5377,"washington/minnehaha",2.21,-122.618,45.6565,"CDP",115
+11597,11597,11369,11142,9917,8413,0.02005,"Northwest","Birch Bay","WA","Washington","53073","Whatcom County",679,"washington/birch-bay",17.081,-122.745,48.9234,"CDP",116
+11433,11433,11390,11347,11845,10830,0.00378,"West","Maltby","WA","Washington","53061|53033","Snohomish County",592,"washington/maltby",19.312,-122.106,47.8021,"CDP",117
+11209,11209,11149,11109,10968,10888,0.00538,"South","Grandview","WA","Washington","53005|53077","Benton County",1653,"washington/grandview",6.779,-119.909,46.2443,"City",118
+11042,11042,10781,10520,9842,7385,0.02421,"Southwest","Felida","WA","Washington","53011","Clark County",3798,"washington/felida",2.907,-122.713,45.7143,"CDP",119
+11033,11033,10973,10850,10793,7565,0.00547,"East","Airway Heights","WA","Washington","53063","Spokane County",1836,"washington/airway-heights",6.01,-117.579,47.6459,"City",120
+10992,10992,10965,10939,10400,10624,0.00246,"West","Vashon","WA","Washington","53033","King County",297,"washington/vashon",36.962,-122.455,47.4112,"CDP",121
+10929,10929,10806,10817,10437,9848,0.01138,"West","Shelton","WA","Washington","53045","Mason County",1879,"washington/shelton",5.816,-123.111,47.2189,"City",122
+10920,10920,10853,10596,10651,9435,0.00617,"West","Sumner","WA","Washington","53033|53053","King County",1450,"washington/sumner",7.532,-122.236,47.2272,"City",123
+10872,10872,10699,10525,9618,8442,0.01617,"West","Alderwood Manor","WA","Washington","53061","Snohomish County",5668,"washington/alderwood-manor",1.918,-122.267,47.8146,"CDP",124
+10824,10824,10611,10399,9762,7850,0.02007,"Southwest","Mount Vista","WA","Washington","53011","Clark County",2070,"washington/mount-vista",5.229,-122.632,45.7373,"CDP",125
+10819,10819,10780,10681,10661,6906,0.00362,"West","Yelm","WA","Washington","53067","Thurston County",1894,"washington/yelm",5.711,-122.643,46.9426,"City",126
+10730,10730,10358,9755,9242,8401,0.03591,"Northwest","Burlington","WA","Washington","53057","Skagit County",2506,"washington/burlington",4.281,-122.329,48.4664,"City",127
+10615,10615,10422,10228,9790,7905,0.01852,"East","Fairwood","WA","Washington","53063","Spokane County",2658,"washington/fairwood-spokane-county",3.994,-117.417,47.7668,"CDP",128
+10611,10611,10502,10381,10173,9117,0.01038,"Northwest","Port Townsend","WA","Washington","53031","Jefferson County",1529,"washington/port-townsend",6.942,-122.788,48.1218,"City",129
+10609,10609,10723,10827,11064,9346,-0.01063,"West","Fife","WA","Washington","53033|53053","King County",1818,"washington/fife",5.834,-122.351,47.2323,"City",130
+10506,10506,10482,10457,11118,10160,0.00229,"West","Lake Morton-Berrydale","WA","Washington","53033|53053","King County",852,"washington/lake-morton-berrydale",12.324,-122.104,47.3328,"CDP",131
+10264,10264,10243,10167,10179,9179,0.00205,"Northwest","Snohomish","WA","Washington","53061","Snohomish County",2915,"washington/snohomish",3.521,-122.093,47.9289,"City",132
+10255,10255,10018,9781,8917,6937,0.02366,"South","Terrace Heights","WA","Washington","53037|53077","Kittitas County",975,"washington/terrace-heights",10.515,-120.436,46.6001,"CDP",133
+10141,10141,10046,9951,9607,8809,0.00946,"West","Picnic Point","WA","Washington","53061","Snohomish County",3335,"washington/picnic-point",3.041,-122.308,47.8765,"CDP",134
+9705,9705,9762,9814,9931,8828,-0.00584,"Southeast","College Place","WA","Washington","53071|41059","Walla Walla County",3102,"washington/college-place",3.129,-118.389,46.0416,"City",135
+9674,9674,9784,9884,10112,8257,-0.01124,"West","DuPont","WA","Washington","53053","Pierce County",1662,"washington/dupont",5.821,-122.648,47.1073,"City",136
+9422,9422,9016,8810,7797,6269,0.04503,"Northwest","Stanwood","WA","Washington","53057|53061","Skagit County",3165,"washington/stanwood",2.977,-122.342,48.2451,"City",137
+9101,9101,9091,9081,9518,8962,0.0011,"West","Midland","WA","Washington","53053","Pierce County",2997,"washington/midland",3.037,-122.412,47.1734,"CDP",138
+9000,9000,8874,8748,9078,7236,0.0142,"West","Summit View","WA","Washington","53053","Pierce County",2782,"washington/summit-view",3.235,-122.352,47.1363,"CDP",139
+8985,8985,8878,8875,8555,7364,0.01205,"Southeast","Othello","WA","Washington","53001|53021|53025","Adams County",2190,"washington/othello",4.102,-119.166,46.8221,"City",140
+8958,8958,8888,8819,8993,7985,0.00788,"West","Summit","WA","Washington","53053","Pierce County",1761,"washington/summit",5.086,-122.364,47.1694,"CDP",141
+8923,8923,8955,8950,9049,6743,-0.00357,"West","Orting","WA","Washington","53053","Pierce County",3299,"washington/orting",2.705,-122.212,47.0969,"City",142
+8790,8790,8789,8819,8784,8736,0.00011,"West","Hoquiam","WA","Washington","53027","Grays Harbor County",921,"washington/hoquiam",9.544,-123.91,46.9772,"City",143
+8721,8721,8665,8491,8496,7723,0.00646,"East","Ephrata","WA","Washington","53017|53025","Douglas County",832,"washington/ephrata",10.48,-119.534,47.3123,"City",144
+8706,8706,8571,8513,8165,7359,0.01575,"South","Selah","WA","Washington","53077","Yakima County",1898,"washington/selah",4.587,-120.538,46.6459,"City",145
+8689,8689,8693,8768,8704,7263,-0.00046,"West","Milton","WA","Washington","53033|53053","King County",3126,"washington/milton",2.78,-122.317,47.252,"City",146
+8674,8674,8517,8433,8045,6744,0.01843,"West","Duvall","WA","Washington","53033","King County",3539,"washington/duvall",2.451,-121.972,47.7355,"City",147
+8592,8592,8650,8689,8824,8981,-0.00671,"South","Toppenish","WA","Washington","53077","Yakima County",3954,"washington/toppenish",2.173,-120.313,46.3802,"City",148
+8542,8542,8315,8232,7632,6808,0.0273,"East","Quincy","WA","Washington","53017|53025","Douglas County",1363,"washington/quincy",6.268,-119.853,47.2349,"City",149
+8522,8522,8268,7901,7504,5856,0.03072,"West","North Bend","WA","Washington","53033","King County",1960,"washington/north-bend",4.348,-121.769,47.488,"City",150
+8326,8326,8135,7945,7317,5661,0.02348,"Southwest","Barberton","WA","Washington","53011","Clark County",1919,"washington/barberton",4.338,-122.611,45.7136,"CDP",151
+8247,8247,8203,8208,8069,6583,0.00536,"Northwest","Sequim","WA","Washington","53009|53031","Clallam County",1305,"washington/sequim",6.319,-123.088,48.0737,"City",152
+8002,8002,7997,7991,7672,7922,0.00063,"West","Waller","WA","Washington","53053","Pierce County",1006,"washington/waller",7.951,-122.368,47.2043,"CDP",153
+7808,7808,7549,7336,6771,5590,0.03431,"West","Ocean Shores","WA","Washington","53027","Grays Harbor County",917,"washington/ocean-shores",8.514,-124.147,46.9654,"City",154
+7601,7601,7571,7612,7479,7253,0.00396,"Southwest","Chehalis","WA","Washington","53041","Lewis County",1309,"washington/chehalis",5.807,-122.965,46.6642,"City",155
+7493,7493,7423,7354,6893,6522,0.00943,"West","Clover Creek","WA","Washington","53053","Pierce County",1158,"washington/clover-creek",6.471,-122.38,47.1433,"CDP",156
+7380,7380,7328,7276,7193,6651,0.0071,"West","Wollochet","WA","Washington","53053","Pierce County",1265,"washington/wollochet",5.834,-122.577,47.2827,"CDP",157
+7332,7332,7318,7303,6758,7126,0.00191,"West","Parkwood","WA","Washington","53035","Kitsap County",2808,"washington/parkwood",2.611,-122.604,47.5252,"CDP",158
+7311,7311,7233,7155,7031,6221,0.01078,"West","Hobart","WA","Washington","53033","King County",389,"washington/hobart",18.802,-122.005,47.4118,"CDP",159
+7298,7298,6766,6205,5168,4663,0.07863,"West","Sultan","WA","Washington","53061","Snohomish County",2186,"washington/sultan",3.338,-121.804,47.8711,"City",160
+7291,7291,7170,7048,5922,5589,0.01688,"West","Woods Creek","WA","Washington","53061","Snohomish County",520,"washington/woods-creek",14.034,-121.903,47.8774,"CDP",161
+7259,7259,7242,7267,7189,7264,0.00235,"Southeast","Clarkston","WA","Washington","53003|53023","Asotin County",3531,"washington/clarkston",2.056,-117.05,46.4154,"City",162
+7213,7213,7158,7103,7407,6441,0.00768,"Northwest","Sudden Valley","WA","Washington","53057|53073","Skagit County",1686,"washington/sudden-valley",4.279,-122.344,48.7231,"CDP",163
+7187,7187,6602,6326,4846,4150,0.08861,"West","Black Diamond","WA","Washington","53033|53053","King County",1089,"washington/black-diamond",6.598,-122.018,47.3147,"City",164
+7155,7155,7163,7172,6995,7275,-0.00112,"East","Mead","WA","Washington","53063","Spokane County",985,"washington/mead",7.264,-117.35,47.7795,"CDP",165
+6931,6931,6606,6282,4854,2388,0.0492,"Southwest","Rochester","WA","Washington","53027|53041|53067","Grays Harbor County",819,"washington/rochester",8.462,-123.064,46.8204,"CDP",166
+6860,6860,6822,6784,7062,6326,0.00557,"Southeast","Clarkston Heights-Vineland","WA","Washington","53003|53023","Asotin County",594,"washington/clarkston-heights-vineland",11.552,-117.092,46.3754,"CDP",167
+6853,6853,6932,7001,7169,6533,-0.0114,"West","Fircrest","WA","Washington","53053","Pierce County",4329,"washington/fircrest",1.583,-122.516,47.2307,"City",168
+6823,6823,6927,7015,7237,6624,-0.01501,"West","Pacific","WA","Washington","53033|53053","King County",2819,"washington/pacific",2.42,-122.252,47.262,"City",169
+6820,6820,6333,5846,4152,0,0.0769,"West","Tehaleh","WA","Washington","53053","Pierce County",780,"washington/tehaleh",8.742,-122.179,47.1161,"CDP",170
+6590,6590,6588,6587,7581,6571,0.0003,"Southwest","Lake Shore","WA","Washington","53011","Clark County",4031,"washington/lake-shore",1.635,-122.691,45.6911,"CDP",171
+6576,6576,6299,6022,6402,2699,0.04398,"West","North Fort Lewis","WA","Washington","53053","Pierce County",1116,"washington/north-fort-lewis",5.895,-122.595,47.1213,"CDP",172
+6567,6567,6610,6657,6739,5989,-0.00651,"West","Steilacoom","WA","Washington","53053","Pierce County",3266,"washington/steilacoom",2.011,-122.592,47.1693,"Town",173
+6511,6511,6046,5581,4613,0,0.07691,"Northwest","Lake Goodwin","WA","Washington","53061|53057","Snohomish County",1159,"washington/lake-goodwin",5.617,-122.276,48.1354,"CDP",174
+6493,6493,6450,6407,7033,5892,0.00667,"West","Tanglewilde","WA","Washington","53067","Thurston County",4998,"washington/tanglewilde",1.299,-122.782,47.0513,"CDP",175
+6476,6476,6493,6527,6542,5540,-0.00262,"Southwest","Woodland","WA","Washington","53011|53015","Clark County",1575,"washington/woodland",4.112,-122.754,45.9182,"City",176
+6449,6449,6527,6597,6760,6357,-0.01195,"West","Normandy Park","WA","Washington","53033","King County",2594,"washington/normandy-park",2.486,-122.345,47.433,"City",177
+6442,6442,6366,6244,6138,5782,0.01194,"Southeast","Prosser","WA","Washington","53005|53039|53077","Benton County",1247,"washington/prosser",5.168,-119.768,46.209,"City",178
+6427,6427,6460,6471,6558,6248,-0.00511,"West","Brier","WA","Washington","53061","Snohomish County",2927,"washington/brier",2.196,-122.273,47.7924,"City",179
+6402,6402,6439,6479,6549,6132,-0.00575,"South","Union Gap","WA","Washington","53037|53077","Kittitas County",1148,"washington/union-gap",5.577,-120.492,46.5544,"City",180
+6342,6342,6232,6024,5900,4705,0.01765,"Northwest","Blaine","WA","Washington","53073","Whatcom County",1135,"washington/blaine",5.586,-122.749,48.9872,"City",181
+6316,6316,6282,6248,5877,5841,0.00541,"East","Country Homes","WA","Washington","53063","Spokane County",3782,"washington/country-homes",1.67,-117.42,47.7478,"CDP",182
+6235,6235,5789,5344,5263,0,0.07704,"East","Suncrest","WA","Washington","53051|53063|53065","Pend Oreille County",632,"washington/suncrest",9.859,-117.603,47.8285,"CDP",183
+6216,6216,6148,6080,5791,5261,0.01106,"Southeast","West Clarkston-Highland","WA","Washington","53003|53023","Asotin County",2213,"washington/west-clarkston-highland",2.809,-117.064,46.4025,"CDP",184
+6136,6136,6085,6033,6050,5413,0.00838,"West","Manchester","WA","Washington","53035","Kitsap County",2098,"washington/manchester",2.924,-122.541,47.5471,"CDP",185
+6044,6044,6044,6045,6825,6054,0,"West","Bangor Base","WA","Washington","53035","Kitsap County",544,"washington/bangor-base",11.105,-122.714,47.7223,"CDP",186
+6010,6010,5922,5833,6159,4771,0.01486,"Southwest","Hockinson","WA","Washington","53011","Clark County",436,"washington/hockinson",13.782,-122.483,45.7302,"CDP",187
+5821,5821,5834,5848,5858,6012,-0.00223,"Southeast","Finley","WA","Washington","53005","Benton County",504,"washington/finley",11.56,-119.045,46.1694,"CDP",188
+5747,5747,5603,5292,5169,4344,0.0257,"West","Buckley","WA","Washington","53053","Pierce County",1489,"washington/buckley",3.86,-122.02,47.1622,"City",189
+5678,5678,5646,5614,5494,5233,0.00567,"West","Tracyton","WA","Washington","53035","Kitsap County",2962,"washington/tracyton",1.917,-122.653,47.6096,"CDP",190
+5612,5612,5656,5699,5968,6220,-0.00778,"East","Otis Orchards-East Farms","WA","Washington","53063","Spokane County",699,"washington/otis-orchards-east-farms",8.031,-117.085,47.7049,"CDP",191
+5581,5581,5550,5518,5135,5138,0.00559,"West","Maplewood","WA","Washington","53053","Pierce County",674,"washington/maplewood",8.286,-122.565,47.3764,"CDP",192
+5431,5431,5466,5501,5069,5919,-0.0064,"West","East Port Orchard","WA","Washington","53035","Kitsap County",3515,"washington/east-port-orchard",1.545,-122.618,47.5193,"CDP",193
+5352,5352,5237,5122,5237,3741,0.02196,"Northwest","Chain Lake","WA","Washington","53061","Snohomish County",491,"washington/chain-lake",10.906,-121.987,47.9023,"CDP",194
+5307,5307,4928,4549,3785,0,0.07691,"Southwest","Lexington","WA","Washington","53015","Cowlitz County",3963,"washington/lexington",1.339,-122.913,46.1894,"CDP",195
+5307,5307,5275,5243,5402,4857,0.00607,"East","Town Country","WA","Washington","53063","Spokane County",4423,"washington/town-country",1.2,-117.423,47.728,"CDP",196
+5071,5071,5037,5026,4935,4711,0.00675,"Northeast","Colville","WA","Washington","53065","Stevens County",1642,"washington/colville",3.088,-117.898,48.5454,"City",197
+5062,5062,4898,4787,4405,3670,0.03348,"Northeast","Deer Park","WA","Washington","53051|53063|53065","Pend Oreille County",735,"washington/deer-park",6.889,-117.44,47.9642,"City",198
+5051,5051,5004,5005,4861,4803,0.00939,"Northeast","Omak","WA","Washington","53047","Okanogan County",1341,"washington/omak",3.767,-119.531,48.4223,"City",199
+5048,5048,5003,4958,4664,4418,0.00899,"East","Moses Lake North","WA","Washington","53025","Grant County",882,"washington/moses-lake-north",5.722,-119.318,47.195,"CDP",200
+4983,4983,4957,5021,4878,5064,0.00525,"East","Medical Lake","WA","Washington","53063","Spokane County",1478,"washington/medical-lake",3.371,-117.689,47.571,"City",201
+4971,4971,4827,4750,4394,3507,0.02983,"South","Moxee","WA","Washington","53037|53077","Kittitas County",2098,"washington/moxee",2.369,-120.397,46.564,"City",202
+4926,4926,4829,4841,4537,3395,0.02009,"Northwest","Granite Falls","WA","Washington","53061","Snohomish County",2247,"washington/granite-falls",2.192,-121.969,48.0896,"City",203
+4918,4918,4882,4845,4810,4405,0.00737,"West","Prairie Heights","WA","Washington","53053","Pierce County",1315,"washington/prairie-heights",3.74,-122.109,47.1497,"CDP",204
+4773,4773,4731,4689,4509,4186,0.00888,"West","Wauna","WA","Washington","53035|53053","Kitsap County",758,"washington/wauna",6.299,-122.669,47.3831,"CDP",205
+4651,4651,4357,4360,3473,2955,0.06748,"Southwest","La Center","WA","Washington","53011","Clark County",1768,"washington/la-center",2.63,-122.676,45.8605,"City",206
+4579,4579,4489,4399,3770,3318,0.02005,"West","Larch Way","WA","Washington","53061","Snohomish County",4114,"washington/larch-way",1.113,-122.253,47.8429,"CDP",207
+4498,4498,4735,4777,5445,4238,-0.05005,"Southeast","Connell","WA","Washington","53001|53021","Adams County",604,"washington/connell",7.441,-118.841,46.6605,"City",208
+4470,4470,4412,4394,4236,3902,0.01315,"Central","Chelan","WA","Washington","53007|53047","Chelan County",667,"washington/chelan",6.703,-120.014,47.8443,"City",209
+4450,4450,4486,4523,4594,5072,-0.00802,"South","Wapato","WA","Washington","53077","Yakima County",3849,"washington/wapato",1.156,-120.422,46.4436,"City",210
+4379,4379,4324,4268,4410,3601,0.01272,"West","Esperance","WA","Washington","53061","Snohomish County",6048,"washington/esperance",0.724,-122.349,47.7932,"CDP",211
+4360,4360,4345,4329,4327,4140,0.00345,"West","Suquamish","WA","Washington","53035","Kitsap County",638,"washington/suquamish",6.833,-122.588,47.7259,"CDP",212
+4311,4311,4292,4273,4389,4044,0.00443,"West","Rosedale","WA","Washington","53053","Pierce County",950,"washington/rosedale",4.539,-122.633,47.3413,"CDP",213
+4304,4304,4262,4220,4182,3713,0.00985,"West","Bethel","WA","Washington","53035","Kitsap County",1362,"washington/bethel",3.161,-122.618,47.4874,"CDP",214
+4290,4290,4251,4212,3973,3745,0.00917,"Southwest","Venersborg","WA","Washington","53011","Clark County",401,"washington/venersborg",10.701,-122.472,45.786,"CDP",215
+4265,4265,4338,4411,4197,5287,-0.01683,"West","Boulevard Park","WA","Washington","53033","King County",3630,"washington/boulevard-park",1.175,-122.315,47.5134,"CDP",216
+4257,4257,4228,4199,4388,3851,0.00686,"Southwest","Longview Heights","WA","Washington","53015|53069","Cowlitz County",1023,"washington/longview-heights",4.16,-122.954,46.1798,"CDP",217
+4216,4216,4195,4175,4557,3931,0.00501,"West","Belfair","WA","Washington","53035|53045","Kitsap County",572,"washington/belfair",7.369,-122.853,47.4468,"CDP",218
+4189,4189,4179,4166,4148,3982,0.00239,"West","Montesano","WA","Washington","53027|53045","Grays Harbor County",384,"washington/montesano",10.903,-123.586,47.0147,"City",219
+4176,4176,4139,4102,4102,3659,0.00894,"West","Mirrormont","WA","Washington","53033","King County",402,"washington/mirrormont",10.4,-121.99,47.4602,"CDP",220
+4130,4130,4106,4081,4568,3784,0.00585,"West","Longbranch","WA","Washington","53053","Pierce County",206,"washington/longbranch",20.03,-122.767,47.2236,"CDP",221
+3900,3900,3761,3705,3342,4463,0.03696,"South","Mattawa","WA","Washington","53025","Grant County",3896,"washington/mattawa",1.001,-119.905,46.7364,"City",222
+3836,3836,3800,3763,3847,3324,0.00947,"West","Clearview","WA","Washington","53061|53033","Snohomish County",827,"washington/clearview",4.64,-122.145,47.8292,"CDP",223
+3817,3817,3733,3654,3479,3055,0.0225,"Southeast","Benton City","WA","Washington","53005","Benton County",1534,"washington/benton-city",2.489,-119.479,46.2637,"City",224
+3725,3725,3689,3653,3332,3221,0.00976,"West","Lake Holm","WA","Washington","53033|53053","King County",446,"washington/lake-holm",8.361,-122.13,47.3064,"CDP",225
+3721,3721,3700,3691,3636,3275,0.00568,"South","Granger","WA","Washington","53077","Yakima County",2153,"washington/granger",1.728,-120.193,46.3453,"City",226
+3659,3659,3558,3457,3234,2246,0.02839,"East","Cascade Valley","WA","Washington","53025","Grant County",985,"washington/cascade-valley",3.715,-119.328,47.141,"CDP",227
+3650,3650,3645,3639,3488,3570,0.00137,"Northwest","Bunk Foss","WA","Washington","53061","Snohomish County",940,"washington/bunk-foss",3.881,-122.094,47.9617,"CDP",228
+3646,3646,3645,3644,3613,3633,0.00027,"West","Fox Island","WA","Washington","53053","Pierce County",702,"washington/fox-island",5.194,-122.647,47.2577,"CDP",229
+3636,3636,3603,3571,3411,3184,0.00916,"Northwest","Three Lakes","WA","Washington","53061","Snohomish County",312,"washington/three-lakes",11.668,-121.979,47.9554,"CDP",230
+3606,3606,3577,3548,3218,3200,0.00811,"Northwest","Canyon Creek","WA","Washington","53061","Snohomish County",591,"washington/canyon-creek",6.104,-121.982,48.11,"CDP",231
+3603,3603,3578,3553,3761,3252,0.00699,"Central","Sunnyslope","WA","Washington","53007","Chelan County",450,"washington/sunnyslope",7.999,-120.353,47.5048,"CDP",232
+3562,3562,3557,3553,3564,3500,0.00141,"West","Indianola","WA","Washington","53035","Kitsap County",678,"washington/indianola",5.255,-122.511,47.7553,"CDP",233
+3538,3538,3477,3416,3442,2685,0.01754,"West","Central Park","WA","Washington","53027","Grays Harbor County",1006,"washington/central-park",3.518,-123.702,46.9718,"CDP",234
+3519,3519,3480,3442,3957,2981,0.01121,"Southwest","Grand Mound","WA","Washington","53041|53067|53027","Lewis County",848,"washington/grand-mound",4.15,-123.011,46.8003,"CDP",235
+3483,3483,3460,3436,3544,3152,0.00665,"West","Maple Heights-Lake Desire","WA","Washington","53033","King County",856,"washington/maple-heights-lake-desire",4.068,-122.093,47.4369,"CDP",236
+3480,3480,3473,3438,3452,3407,0.00202,"South","Goldendale","WA","Washington","53039","Klickitat County",1176,"washington/goldendale",2.96,-120.823,45.8191,"City",237
+3464,3464,3460,3468,3446,3294,0.00116,"West","Elma","WA","Washington","53027|53045","Grays Harbor County",1253,"washington/elma",2.764,-123.411,47.0052,"City",238
+3432,3432,3418,3408,3376,3569,0.0041,"Northwest","Forks","WA","Washington","53009|53031","Clallam County",829,"washington/forks",4.139,-124.39,47.9528,"City",239
+3398,3398,3391,3383,3522,3291,0.00206,"Southeast","Burbank","WA","Washington","53071","Walla Walla County",436,"washington/burbank",7.794,-118.983,46.1984,"CDP",240
+3312,3312,3332,3353,3701,3601,-0.006,"South","Ahtanum","WA","Washington","53077","Yakima County",417,"washington/ahtanum",7.947,-120.614,46.5572,"CDP",241
+3304,3304,3331,3359,3631,3692,-0.00811,"West","Key Center","WA","Washington","53035|53053","Kitsap County",226,"washington/key-center",14.626,-122.755,47.3306,"CDP",242
+3285,3285,3258,3231,3006,2906,0.00829,"South","Gleed","WA","Washington","53077","Yakima County",608,"washington/gleed",5.406,-120.603,46.6593,"CDP",243
+3284,3284,3305,3326,3329,3580,-0.00635,"Northwest","Port Hadlock-Irondale","WA","Washington","53031","Jefferson County",491,"washington/port-hadlock-irondale",6.689,-122.791,48.0328,"CDP",244
+3276,3276,3216,3156,2934,2437,0.01866,"Northwest","Warm Beach","WA","Washington","53057|53061","Skagit County",751,"washington/warm-beach",4.36,-122.348,48.1651,"CDP",245
+3272,3272,3259,3246,3858,3091,0.00399,"Northwest","Hansville","WA","Washington","53035","Kitsap County",309,"washington/hansville",10.595,-122.571,47.9101,"CDP",246
+3270,3270,3227,3231,3096,2872,0.01333,"Southwest","Raymond","WA","Washington","53049","Pacific County",797,"washington/raymond",4.105,-123.74,46.6837,"City",247
+3263,3263,3259,3316,3246,3119,0.00123,"Central","Cashmere","WA","Washington","53007","Chelan County",2803,"washington/cashmere",1.164,-120.467,47.5181,"City",248
+3262,3262,3192,3122,2463,2284,0.02193,"Northwest","Arlington Heights","WA","Washington","53061","Snohomish County",388,"washington/arlington-heights",8.4,-122.063,48.2119,"CDP",249
+3252,3252,3218,3184,3464,2776,0.01057,"East","Fairchild AFB","WA","Washington","53063","Spokane County",491,"washington/fairchild-afb",6.623,-117.648,47.6186,"CDP",250
+3212,3212,3144,3076,3184,2259,0.02163,"West","Chico","WA","Washington","53035|53045","Kitsap County",1331,"washington/chico",2.413,-122.719,47.6226,"CDP",251
+3204,3204,3254,3304,3463,3906,-0.01537,"Northwest","Marietta-Alderwood","WA","Washington","53073","Whatcom County",551,"washington/marietta-alderwood",5.816,-122.555,48.7881,"CDP",252
+3178,3178,3137,3096,2940,2603,0.01307,"Northwest","Port Ludlow","WA","Washington","53031","Jefferson County",276,"washington/port-ludlow",11.53,-122.695,47.9146,"CDP",253
+3159,3159,3191,3218,3285,3038,-0.01003,"West","Algona","WA","Washington","53033","King County",2445,"washington/algona",1.292,-122.25,47.282,"City",254
+3149,3149,3074,2999,2836,2099,0.0244,"West","Kingston","WA","Washington","53035","Kitsap County",1492,"washington/kingston",2.11,-122.506,47.7944,"CDP",255
+3112,3112,3071,3016,2947,2492,0.01335,"Northwest","Everson","WA","Washington","53073","Whatcom County",2084,"washington/everson",1.493,-122.354,48.9125,"City",256
+3105,3105,3122,3150,3172,3034,-0.00545,"South","Zillah","WA","Washington","53077","Yakima County",1705,"washington/zillah",1.821,-120.273,46.4084,"City",257
+3060,3060,3077,3090,3128,2997,-0.00552,"West","Clyde Hill","WA","Washington","53033","King County",2900,"washington/clyde-hill",1.055,-122.218,47.6304,"City",258
+3053,3053,3033,3043,2973,2358,0.00659,"Southwest","Kalama","WA","Washington","53015","Cowlitz County",848,"washington/kalama",3.602,-122.842,46.0171,"City",259
+3047,3047,3002,2957,2564,2418,0.01499,"Northwest","Fobes Hill","WA","Washington","53061","Snohomish County",655,"washington/fobes-hill",4.654,-122.134,47.9392,"CDP",260
+3035,3035,3035,3035,3339,3036,0,"Northwest","Port Angeles East","WA","Washington","53009","Clallam County",804,"washington/port-angeles-east",3.775,-123.367,48.1097,"CDP",261
+3023,3023,3009,2995,3162,2826,0.00465,"West","Meadowdale","WA","Washington","53061","Snohomish County",2836,"washington/meadowdale",1.066,-122.323,47.8606,"CDP",262
+3018,3018,2995,2972,3041,2696,0.00768,"Northwest","Sisco Heights","WA","Washington","53061","Snohomish County",218,"washington/sisco-heights",13.819,-122.11,48.1177,"CDP",263
+2989,2989,2916,2842,2582,1959,0.02503,"Southwest","Fords Prairie","WA","Washington","53041|53067","Lewis County",802,"washington/fords-prairie",3.727,-123.004,46.7491,"CDP",264
+2976,2976,2984,2991,3070,3079,-0.00268,"West","Canterwood","WA","Washington","53053","Pierce County",1391,"washington/canterwood",2.14,-122.602,47.3765,"CDP",265
+2964,2964,2932,2899,3268,2507,0.01091,"West","McChord AFB","WA","Washington","53053","Pierce County",504,"washington/mcchord-afb",5.876,-122.492,47.1327,"CDP",266
+2933,2933,2871,2808,2515,2057,0.0216,"West","Burley","WA","Washington","53035|53053","Kitsap County",617,"washington/burley",4.752,-122.645,47.416,"CDP",267
+2895,2895,2805,2714,2716,1626,0.03209,"South","Desert Aire","WA","Washington","53025","Grant County",852,"washington/desert-aire",3.396,-119.929,46.6942,"CDP",268
+2850,2850,2861,2871,3065,2994,-0.00384,"West","High Bridge","WA","Washington","53061","Snohomish County",409,"washington/high-bridge",6.974,-122.024,47.7999,"CDP",269
+2815,2815,2841,2856,2918,2982,-0.00915,"West","Medina","WA","Washington","53033","King County",1962,"washington/medina",1.435,-122.243,47.6265,"City",270
+2787,2787,2804,2824,2853,2753,-0.00606,"Southwest","Eatonville","WA","Washington","53053","Pierce County",1526,"washington/eatonville",1.826,-122.27,46.8682,"Town",271
+2775,2775,2773,2773,2766,2791,0.00072,"East","Colfax","WA","Washington","53075","Whitman County",736,"washington/colfax",3.772,-117.345,46.9016,"City",272
+2771,2771,2736,2753,2631,2161,0.01279,"Northwest","Friday Harbor","WA","Washington","53055","San Juan County",1267,"washington/friday-harbor",2.187,-123.019,48.5339,"Town",273
+2765,2765,2775,2785,3738,2906,-0.0036,"West","North Yelm","WA","Washington","53067","Thurston County",836,"washington/north-yelm",3.306,-122.614,46.9661,"CDP",274
+2738,2738,2667,2535,2454,2701,0.02662,"East","Warden","WA","Washington","53001|53025","Adams County",934,"washington/warden",2.933,-119.053,46.9673,"City",275
+2720,2720,2659,2612,2476,2597,0.02294,"Northeast","Chewelah","WA","Washington","53065","Stevens County",921,"washington/chewelah",2.953,-117.717,48.2826,"City",276
+2703,2703,2691,2679,2991,2533,0.00446,"Northwest","Lochsloy","WA","Washington","53061","Snohomish County",362,"washington/lochsloy",7.464,-122.041,48.0597,"CDP",277
+2676,2676,2729,2782,2854,3415,-0.01942,"Northwest","Lake Cassidy","WA","Washington","53061","Snohomish County",253,"washington/lake-cassidy",10.59,-122.082,48.066,"CDP",278
+2671,2671,2657,2643,2973,2477,0.00527,"West","Navy Yard City","WA","Washington","53035|53045","Kitsap County",4350,"washington/navy-yard-city",0.614,-122.662,47.553,"CDP",279
+2652,2652,2669,2686,2695,2893,-0.00637,"West","Alderton","WA","Washington","53053","Pierce County",464,"washington/alderton",5.721,-122.222,47.1763,"CDP",280
+2639,2639,2560,2482,2375,1541,0.03086,"Northwest","Whidbey Island Station","WA","Washington","53029","Island County",402,"washington/whidbey-island-station",6.567,-122.654,48.3492,"CDP",281
+2618,2618,2621,2623,2721,2652,-0.00114,"Southwest","Brush Prairie","WA","Washington","53011","Clark County",341,"washington/brush-prairie",7.683,-122.548,45.725,"CDP",282
+2614,2614,2664,2715,3187,3324,-0.01877,"Northwest","Peaceful Valley","WA","Washington","53073","Whatcom County",1044,"washington/peaceful-valley",2.505,-122.148,48.951,"CDP",283
+2611,2611,2583,2567,2498,2349,0.01084,"Southwest","White Salmon","WA","Washington","53039|53059","Klickitat County",1698,"washington/white-salmon",1.538,-121.485,45.7284,"City",284
+2599,2599,2537,2474,2166,1722,0.02444,"Southwest","Lewisville","WA","Washington","53011","Clark County",480,"washington/lewisville",5.415,-122.508,45.8165,"CDP",285
+2589,2589,2537,2486,2142,1870,0.0205,"Northwest","Bryant","WA","Washington","53061","Snohomish County",422,"washington/bryant",6.141,-122.178,48.2465,"CDP",286
+2533,2533,2510,2498,2440,2544,0.00916,"Southeast","Dayton","WA","Washington","53013","Columbia County",1757,"washington/dayton",1.442,-117.977,46.3168,"City",287
+2507,2507,2476,2461,2383,1799,0.01252,"West","Rainier","WA","Washington","53067","Thurston County",1442,"washington/rainier",1.738,-122.687,46.8917,"City",288
+2476,2476,2299,2122,1903,0,0.07699,"Southwest","Beacon Hill","WA","Washington","53015|53069","Cowlitz County",2155,"washington/beacon-hill",1.149,-122.921,46.1712,"CDP",289
+2434,2434,2418,2418,2370,2612,0.00662,"Northeast","Okanogan","WA","Washington","53047","Okanogan County",1210,"washington/okanogan",2.011,-119.579,48.3673,"City",290
+2432,2432,2437,2440,2452,2115,-0.00205,"Southwest","Castle Rock","WA","Washington","53015","Cowlitz County",1161,"washington/castle-rock",2.095,-122.904,46.2719,"City",291
+2430,2430,2412,2428,2357,1979,0.00746,"Central","Leavenworth","WA","Washington","53007","Chelan County",1672,"washington/leavenworth",1.453,-120.664,47.5947,"City",292
+2410,2410,2411,2400,2412,2165,-0.00041,"West","Gold Bar","WA","Washington","53061","Snohomish County",2276,"washington/gold-bar",1.059,-121.692,47.8563,"City",293
+2396,2396,2225,2054,1817,0,0.07685,"West","Kitsap Lake","WA","Washington","53035|53045","Kitsap County",2069,"washington/kitsap-lake",1.158,-122.709,47.5904,"CDP",294
+2365,2365,2377,2390,2774,2541,-0.00505,"Southwest","Meadow Glade","WA","Washington","53011","Clark County",650,"washington/meadow-glade",3.638,-122.561,45.7523,"CDP",295
+2361,2361,2355,2349,2800,2279,0.00255,"Southwest","Carson","WA","Washington","53059","Skamania County",493,"washington/carson",4.79,-121.826,45.7348,"CDP",296
+2339,2339,2303,2267,2251,1835,0.01563,"Northwest","Big Lake","WA","Washington","53057","Skagit County",305,"washington/big-lake",7.665,-122.243,48.3958,"CDP",297
+2319,2319,2333,2346,1958,2507,-0.006,"West","South Creek","WA","Washington","53053","Pierce County",302,"washington/south-creek",7.678,-122.391,47.0004,"CDP",298
+2307,2307,2286,2264,2221,2080,0.00919,"West","Westport","WA","Washington","53027","Grays Harbor County",628,"washington/westport",3.675,-124.12,46.8918,"City",299
+2297,2297,2273,2249,2504,1963,0.01056,"West","Allyn","WA","Washington","53045","Mason County",1438,"washington/allyn",1.597,-122.839,47.3868,"CDP",300
+2246,2246,2217,2201,2128,2150,0.01308,"Northeast","Newport","WA","Washington","53051|53063","Pend Oreille County",1522,"washington/newport",1.476,-117.055,48.1782,"City",301
+2241,2241,2150,2059,1892,967,0.04233,"South","Summitview","WA","Washington","53077","Yakima County",507,"washington/summitview",4.417,-120.656,46.5983,"CDP",302
+2222,2222,2211,2229,2178,1871,0.00498,"West","Cle Elum","WA","Washington","53037","Kittitas County",495,"washington/cle-elum",4.492,-120.953,47.1946,"City",303
+2221,2221,2140,2059,1897,1793,0.03785,"Southwest","Napavine","WA","Washington","53041","Lewis County",768,"washington/napavine",2.892,-122.902,46.5868,"City",304
+2181,2181,2176,2199,2161,1788,0.0023,"West","Carnation","WA","Washington","53033","King County",1883,"washington/carnation",1.158,-121.901,47.6442,"City",305
+2164,2164,2156,2129,2131,2415,0.00371,"Northeast","Bridgeport","WA","Washington","53017|53047","Douglas County",2019,"washington/bridgeport",1.072,-119.673,48.007,"City",306
+2098,2098,1944,1730,1482,1357,0.07922,"Southwest","Winlock","WA","Washington","53041","Lewis County",1624,"washington/winlock",1.292,-122.934,46.4907,"City",307
+2090,2090,2103,2115,2385,2262,-0.00618,"West","Shadow Lake","WA","Washington","53033","King County",402,"washington/shadow-lake",5.194,-122.08,47.4061,"CDP",308
+2063,2063,2044,2047,1987,2371,0.0093,"Northeast","Brewster","WA","Washington","53017|53047","Douglas County",1791,"washington/brewster",1.152,-119.77,48.107,"City",309
+2058,2058,2077,2096,2596,2321,-0.00915,"Northwest","Geneva","WA","Washington","53057|53073","Skagit County",1496,"washington/geneva",1.376,-122.403,48.7453,"CDP",310
+2046,2046,2076,2105,2278,2458,-0.01445,"West","Cathcart","WA","Washington","53061","Snohomish County",530,"washington/cathcart",3.864,-122.106,47.8526,"CDP",311
+2043,2043,2037,2041,2019,1652,0.00295,"West","McCleary","WA","Washington","53027|53045","Grays Harbor County",997,"washington/mccleary",2.05,-123.27,47.0585,"City",312
+2026,2026,2033,2041,2521,2132,-0.00344,"West","Riverbend","WA","Washington","53033","King County",679,"washington/riverbend",2.985,-121.751,47.4645,"CDP",313
+2022,2022,2020,2018,2357,1993,0.00099,"West","Fall City","WA","Washington","53033","King County",712,"washington/fall-city",2.838,-121.914,47.5694,"CDP",314
+1996,1996,2017,2038,2119,2289,-0.01041,"West","Lofall","WA","Washington","53035","Kitsap County",998,"washington/lofall",1.999,-122.652,47.8105,"CDP",315
+1966,1966,1943,1930,1873,1690,0.01184,"Southwest","Tenino","WA","Washington","53067","Thurston County",1350,"washington/tenino",1.456,-122.86,46.8538,"City",316
+1962,1962,1934,1906,1980,1573,0.01448,"Southwest","Ocean Park","WA","Washington","53049","Pacific County",648,"washington/ocean-park",3.028,-124.041,46.4967,"CDP",317
+1956,1956,1951,1946,1989,1884,0.00256,"Southwest","Fern Prairie","WA","Washington","53011|53059","Clark County",390,"washington/fern-prairie",5.017,-122.396,45.637,"CDP",318
+1949,1949,1911,1873,1815,1419,0.01988,"Southeast","Garrett","WA","Washington","53071|41059","Walla Walla County",749,"washington/garrett",2.603,-118.4,46.059,"CDP",319
+1939,1939,1943,1944,1955,2294,-0.00206,"South","Mabton","WA","Washington","53077","Yakima County",2300,"washington/mabton",0.843,-119.994,46.2115,"City",320
+1938,1938,1799,1661,1500,0,0.07727,"Northwest","Kayak Point","WA","Washington","53057|53061","Skagit County",354,"washington/kayak-point",5.474,-122.342,48.1425,"CDP",321
+1934,1934,1897,1882,1785,2151,0.0195,"East","Royal City","WA","Washington","53025","Grant County",1662,"washington/royal-city",1.164,-119.621,46.9019,"City",322
+1930,1930,1901,1872,1898,1523,0.01526,"West","Wilderness Rim","WA","Washington","53033","King County",3103,"washington/wilderness-rim",0.622,-121.769,47.447,"CDP",323
+1922,1922,1928,1941,1944,1837,-0.00311,"Northwest","Coupeville","WA","Washington","53029","Island County",1513,"washington/coupeville",1.27,-122.679,48.2188,"Town",324
+1916,1916,1898,1880,1740,1666,0.00948,"West","Monroe North","WA","Washington","53061","Snohomish County",914,"washington/monroe-north",2.097,-121.987,47.883,"CDP",325
+1914,1914,1934,1953,2300,2185,-0.01034,"West","Southworth","WA","Washington","53035","Kitsap County",567,"washington/southworth",3.375,-122.532,47.5138,"CDP",326
+1869,1869,1881,1894,1883,2045,-0.00638,"Northwest","Freeland","WA","Washington","53029","Island County",482,"washington/freeland",3.879,-122.55,48.0282,"CDP",327
+1866,1866,1852,1852,1809,1711,0.00756,"Northeast","Oroville","WA","Washington","53047","Okanogan County",1104,"washington/oroville",1.69,-119.43,48.947,"City",328
+1852,1852,1839,1826,2459,1672,0.00707,"Southeast","Walla Walla East","WA","Washington","41059|53071","Umatilla County",828,"washington/walla-walla-east",2.237,-118.303,46.046,"CDP",329
+1847,1847,1856,1882,1882,1786,-0.00485,"East","Millwood","WA","Washington","53063","Spokane County",2654,"washington/millwood",0.696,-117.28,47.6856,"City",330
+1800,1800,1834,1869,1993,2286,-0.01854,"West","Enetai","WA","Washington","53035","Kitsap County",1719,"washington/enetai",1.047,-122.603,47.5859,"CDP",331
+1797,1797,1775,1776,1709,1736,0.01239,"East","Davenport","WA","Washington","53043|53065","Lincoln County",1078,"washington/davenport",1.667,-118.152,47.655,"City",332
+1776,1776,1770,1771,1752,1631,0.00339,"Southwest","South Bend","WA","Washington","53049","Pacific County",1082,"washington/south-bend",1.641,-123.802,46.6699,"City",333
+1773,1773,1756,1748,1704,1389,0.00968,"Southwest","Long Beach","WA","Washington","53049","Pacific County",1286,"washington/long-beach",1.379,-124.058,46.3619,"City",334
+1762,1762,1786,1810,2389,2101,-0.01344,"West","Stansberry Lake","WA","Washington","53035|53053","Kitsap County",852,"washington/stansberry-lake",2.068,-122.712,47.3829,"CDP",335
+1758,1758,1744,1737,1700,1549,0.00803,"East","Soap Lake","WA","Washington","53025","Grant County",1144,"washington/soap-lake",1.537,-119.485,47.3911,"City",336
+1755,1755,1740,1725,1249,1544,0.00862,"Southwest","Duluth","WA","Washington","53011","Clark County",294,"washington/duluth",5.972,-122.647,45.7838,"CDP",337
+1744,1744,1718,1692,1649,1377,0.01513,"West","Home","WA","Washington","53053","Pierce County",276,"washington/home",6.323,-122.79,47.2747,"CDP",338
+1721,1721,1613,1467,1289,1007,0.06696,"Central","Rock Island","WA","Washington","53017","Douglas County",1527,"washington/rock-island",1.127,-120.142,47.3732,"City",339
+1721,1721,1638,1555,1387,1185,0.05067,"South","Tieton","WA","Washington","53077","Yakima County",1992,"washington/tieton",0.864,-120.756,46.7026,"City",340
+1718,1718,1670,1621,1571,1037,0.02874,"West","Anderson Island","WA","Washington","53053","Pierce County",216,"washington/anderson-island",7.952,-122.682,47.1499,"CDP",341
+1699,1699,1711,1724,1747,1685,-0.00701,"East","Ritzville","WA","Washington","53001|53043","Adams County",771,"washington/ritzville",2.203,-118.375,47.1231,"City",342
+1692,1692,1686,1680,1871,1608,0.00356,"Southwest","Amboy","WA","Washington","53011|53015","Clark County",170,"washington/amboy",9.982,-122.489,45.9159,"CDP",343
+1684,1684,1665,1645,1606,1315,0.01141,"Northwest","Sumas","WA","Washington","53073","Whatcom County",1148,"washington/sumas",1.467,-122.268,48.9955,"City",344
+1674,1674,1666,1669,1641,1642,0.0048,"West","Cosmopolis","WA","Washington","53027|53049|53045","Grays Harbor County",1203,"washington/cosmopolis",1.392,-123.773,46.9543,"City",345
+1663,1663,1656,1655,1635,1587,0.00423,"Northeast","Kettle Falls","WA","Washington","53019|53065","Ferry County",1500,"washington/kettle-falls",1.109,-118.062,48.6056,"City",346
+1663,1663,1621,1591,1493,1481,0.02591,"Southwest","Stevenson","WA","Washington","53059","Skamania County",863,"washington/stevenson",1.927,-121.896,45.6947,"City",347
+1650,1650,1610,1570,1173,1092,0.02484,"Southeast","Basin City","WA","Washington","53021","Franklin County",517,"washington/basin-city",3.189,-119.157,46.589,"CDP",348
+1644,1644,1592,1540,1013,915,0.03266,"East","Lakeview","WA","Washington","53025","Grant County",1460,"washington/lakeview",1.126,-119.504,47.3755,"CDP",349
+1603,1603,1620,1632,1671,1583,-0.01049,"Southwest","Yacolt","WA","Washington","53011","Clark County",2788,"washington/yacolt",0.575,-122.406,45.8652,"Town",350
+1559,1559,1539,1523,1479,1352,0.013,"Northwest","Nooksack","WA","Washington","53073","Whatcom County",1794,"washington/nooksack",0.869,-122.318,48.9281,"City",351
+1558,1558,1714,1870,1592,3739,-0.09102,"Southeast","West Pasco","WA","Washington","53021","Franklin County",1066,"washington/west-pasco",1.462,-119.183,46.2543,"CDP",352
+1543,1543,1544,1546,1418,1564,-0.00065,"West","Rocky Point","WA","Washington","53035|53045","Kitsap County",2167,"washington/rocky-point",0.712,-122.666,47.5941,"CDP",353
+1511,1511,1527,1544,1970,1743,-0.01048,"West","North Puyallup","WA","Washington","53053","Pierce County",1439,"washington/north-puyallup",1.05,-122.278,47.1989,"CDP",354
+1481,1481,1441,1402,1278,930,0.02776,"Northwest","Lake Ketchum","WA","Washington","53057|53061","Skagit County",476,"washington/lake-ketchum",3.109,-122.346,48.2858,"CDP",355
+1479,1479,1526,1573,1919,2137,-0.0308,"West","Fife Heights","WA","Washington","53033|53053","King County",1506,"washington/fife-heights",0.982,-122.346,47.2607,"CDP",356
+1465,1465,1466,1465,1469,1349,-0.00068,"Northwest","Darrington","WA","Washington","53057|53061","Skagit County",770,"washington/darrington",1.903,-121.608,48.2588,"Town",357
+1463,1463,1445,1426,1357,1202,0.01246,"Southwest","Dallesport","WA","Washington","53039","Klickitat County",217,"washington/dallesport",6.733,-121.169,45.6316,"CDP",358
+1441,1441,1377,1313,1052,544,0.04648,"West","Vaughn","WA","Washington","53035|53053","Kitsap County",614,"washington/vaughn",2.345,-122.782,47.358,"CDP",359
+1439,1439,1428,1425,1395,1426,0.0077,"Southeast","Pomeroy","WA","Washington","53013|53023|53075","Columbia County",810,"washington/pomeroy",1.776,-117.597,46.4738,"City",360
+1437,1437,1439,1449,1444,1365,-0.00139,"Central","Kittitas","WA","Washington","53037","Kittitas County",1840,"washington/kittitas",0.781,-120.419,46.9837,"City",361
+1430,1430,1422,1415,1397,963,0.00563,"Southwest","North Bonneville","WA","Washington","53059","Skamania County",566,"washington/north-bonneville",2.525,-121.973,45.6414,"City",362
+1423,1423,1400,1413,1331,1116,0.01643,"Central","Entiat","WA","Washington","53007","Chelan County",653,"washington/entiat",2.179,-120.222,47.677,"City",363
+1416,1416,1406,1396,1346,1277,0.00711,"West","Lake Marcel-Stillwater","WA","Washington","53033","King County",1109,"washington/lake-marcel-stillwater",1.277,-121.915,47.6951,"CDP",364
+1402,1402,1412,1422,1531,1544,-0.00708,"West","Purdy","WA","Washington","53053","Pierce County",582,"washington/purdy",2.407,-122.605,47.3965,"CDP",365
+1371,1371,1378,1385,1433,1468,-0.00508,"Central","Manson","WA","Washington","53007","Chelan County",1094,"washington/manson",1.253,-120.162,47.8743,"CDP",366
+1301,1301,1304,1305,1312,1309,-0.0023,"West","Woodway","WA","Washington","53061","Snohomish County",1114,"washington/woodway",1.168,-122.388,47.7879,"City",367
+1280,1280,1188,1097,961,0,0.07744,"West","Browns Point","WA","Washington","53033|53053","King County",3153,"washington/browns-point",0.406,-122.437,47.3038,"CDP",368
+1274,1274,1267,1260,1117,1178,0.00552,"Northwest","Machias","WA","Washington","53061","Snohomish County",515,"washington/machias",2.476,-122.052,47.9918,"CDP",369
+1254,1254,1210,1166,947,640,0.03636,"Northwest","Sunday Lake","WA","Washington","53061|53057","Snohomish County",377,"washington/sunday-lake",3.327,-122.27,48.2283,"CDP",370
+1238,1238,1244,1249,1100,1314,-0.00482,"Northwest","Point Roberts","WA","Washington","53073","Whatcom County",253,"washington/point-roberts",4.885,-123.059,48.9847,"CDP",371
+1226,1226,1223,1228,1213,1099,0.00245,"Northeast","Coulee Dam","WA","Washington","53017|53025|53047","Douglas County",1712,"washington/coulee-dam",0.716,-118.976,47.9685,"Town",372
+1219,1219,1243,1267,1351,1553,-0.01931,"Central","South Wenatchee","WA","Washington","53007","Chelan County",1051,"washington/south-wenatchee",1.16,-120.289,47.3944,"CDP",373
+1210,1210,1214,1218,1322,1268,-0.00329,"West","Crocker","WA","Washington","53053","Pierce County",169,"washington/crocker",7.143,-122.127,47.0908,"CDP",374
+1204,1204,1185,1165,1123,928,0.01603,"Northwest","Clinton","WA","Washington","53029","Island County",1190,"washington/clinton",1.012,-122.352,47.9624,"CDP",375
+1197,1197,1198,1203,1201,1252,-0.00083,"Southeast","Asotin","WA","Washington","53003|53023","Asotin County",1116,"washington/asotin",1.073,-117.04,46.3337,"City",376
+1175,1175,1174,1167,1170,1217,0.00085,"Southeast","Waitsburg","WA","Washington","53013|53071","Columbia County",1010,"washington/waitsburg",1.163,-118.151,46.2698,"City",377
+1157,1157,1142,1128,703,954,0.01313,"West","Grapeview","WA","Washington","53045","Mason County",315,"washington/grapeview",3.669,-122.829,47.3298,"CDP",378
+1146,1146,1119,1092,1181,768,0.02413,"Northwest","Swede Heaven","WA","Washington","53061|53057","Snohomish County",160,"washington/swede-heaven",7.182,-121.71,48.2807,"CDP",379
+1144,1144,1146,1152,1150,1018,-0.00175,"Northwest","Langley","WA","Washington","53029","Island County",1135,"washington/langley",1.008,-122.407,48.0375,"City",380
+1142,1142,1097,1051,930,503,0.04102,"Northwest","Lake Roesiger","WA","Washington","53061","Snohomish County",294,"washington/lake-roesiger",3.883,-121.905,47.9755,"CDP",381
+1141,1141,1131,1121,1101,1002,0.00884,"Northwest","Clear Lake","WA","Washington","53057|53073","Skagit County",422,"washington/clear-lake",2.703,-122.239,48.4483,"CDP",382
+1135,1135,1165,1194,1236,1547,-0.02575,"West","McMillin","WA","Washington","53053","Pierce County",682,"washington/mcmillin",1.665,-122.235,47.126,"CDP",383
+1127,1127,1128,1126,1129,1139,-0.00089,"Central","Waterville","WA","Washington","53017","Douglas County",1303,"washington/waterville",0.865,-120.071,47.648,"Town",384
+1124,1124,1092,1059,1071,667,0.0293,"Northwest","Lake Bosworth","WA","Washington","53061","Snohomish County",284,"washington/lake-bosworth",3.953,-121.982,48.0555,"CDP",385
+1124,1124,1043,963,742,0,0.07766,"West","Riverpoint","WA","Washington","53033","King County",886,"washington/riverpoint",1.268,-121.712,47.4797,"CDP",386
+1123,1123,1116,1116,1093,933,0.00627,"Southwest","Ilwaco","WA","Washington","53049","Pacific County",548,"washington/ilwaco",2.05,-124.027,46.3127,"City",387
+1117,1117,1099,1081,1102,865,0.01638,"Northwest","Neah Bay","WA","Washington","53009","Clallam County",476,"washington/neah-bay",2.345,-124.612,48.361,"CDP",388
+1114,1114,1110,1113,1097,1147,0.0036,"Northeast","Tonasket","WA","Washington","53047","Okanogan County",1180,"washington/tonasket",0.944,-119.442,48.7076,"City",389
+1113,1113,1135,1157,1065,1419,-0.01938,"West","Clear Lake","WA","Washington","53053","Pierce County",131,"washington/clear-lake-pierce-county",8.486,-122.305,46.9284,"CDP",390
+1104,1104,1088,1079,1038,1126,0.01471,"Southwest","Morton","WA","Washington","53041","Lewis County",1345,"washington/morton",0.821,-122.281,46.5574,"City",391
+1095,1095,1076,1057,1227,831,0.01766,"Southwest","Puget Island","WA","Washington","53069","Wahkiakum County",145,"washington/puget-island",7.572,-123.382,46.1757,"CDP",392
+1095,1095,1105,1115,1133,1006,-0.00905,"West","Yarrow Point","WA","Washington","53033","King County",2992,"washington/yarrow-point",0.366,-122.22,47.6446,"Town",393
+1087,1087,1023,959,884,191,0.06256,"Northwest","Kendall","WA","Washington","53073","Whatcom County",396,"washington/kendall",2.748,-122.133,48.9155,"CDP",394
+1087,1087,1065,1058,997,904,0.02066,"North","Twisp","WA","Washington","53047","Okanogan County",930,"washington/twisp",1.169,-120.117,48.361,"Town",395
+1080,1080,1080,1087,1080,828,0,"South","Naches","WA","Washington","53077","Yakima County",1240,"washington/naches",0.871,-120.691,46.726,"Town",396
+1050,1050,1041,1043,1014,999,0.00865,"East","Palouse","WA","Washington","53075","Whitman County",1003,"washington/palouse",1.047,-117.075,46.9103,"City",397
+1045,1045,1076,1108,1317,1486,-0.02881,"West","Ames Lake","WA","Washington","53033","King County",652,"washington/ames-lake",1.602,-121.961,47.634,"CDP",398
+1024,1024,1014,1014,984,1064,0.00986,"Northeast","Republic","WA","Washington","53019|53047","Ferry County",721,"washington/republic",1.42,-118.733,48.6488,"City",399
+1019,1019,1028,1035,1054,750,-0.00875,"West","Ruston","WA","Washington","53053","Pierce County",3980,"washington/ruston",0.256,-122.512,47.298,"City",400
+1010,1010,986,962,813,676,0.02434,"West","Brady","WA","Washington","53027|53045","Grays Harbor County",165,"washington/brady",6.112,-123.542,47.0046,"CDP",401
+1000,1000,964,927,736,487,0.03734,"Northeast","Malott","WA","Washington","53047","Okanogan County",543,"washington/malott",1.841,-119.696,48.2918,"CDP",402
+986,986,982,974,968,871,0.00407,"Northwest","La Conner","WA","Washington","53057","Skagit County",2477,"washington/la-conner",0.398,-122.494,48.3926,"Town",403
+961,961,893,824,684,0,0.07615,"Southwest","Dollars Corner","WA","Washington","53011","Clark County",243,"washington/dollars-corner",3.957,-122.6,45.7802,"CDP",404
+952,952,958,962,975,1036,-0.00626,"Northeast","Grand Coulee","WA","Washington","53017|53025|53047|53043","Douglas County",758,"washington/grand-coulee",1.256,-119.002,47.9391,"City",405
+952,952,954,962,958,890,-0.0021,"West","Roslyn","WA","Washington","53037","Kittitas County",217,"washington/roslyn",4.39,-121.141,47.27,"City",406
+942,942,946,948,958,981,-0.00423,"Northeast","Electric City","WA","Washington","53025|53017|53043","Grant County",474,"washington/electric-city",1.988,-119.046,47.913,"City",407
+937,937,870,803,768,0,0.07701,"West","Erlands Point","WA","Washington","53035|53045","Kitsap County",1985,"washington/erlands-point",0.472,-122.694,47.6024,"CDP",408
+936,936,926,932,896,913,0.0108,"East","Odessa","WA","Washington","53001|53043","Adams County",1153,"washington/odessa",0.812,-118.689,47.3326,"Town",409
+933,933,924,931,896,870,0.00974,"East","Wilbur","WA","Washington","53043","Lincoln County",707,"washington/wilbur",1.319,-118.712,47.7581,"Town",410
+923,923,1190,1457,5395,4660,-0.22437,"Northwest","Cavalero","WA","Washington","53061","Snohomish County",1960,"washington/cavalero",0.471,-122.077,47.975,"CDP",411
+922,922,927,932,881,995,-0.00539,"Northwest","Carlsborg","WA","Washington","53009|53031","Clallam County",871,"washington/carlsborg",1.058,-123.17,48.0842,"CDP",412
+922,922,922,923,1008,931,0,"West","Dash Point","WA","Washington","53033|53053","King County",1454,"washington/dash-point",0.634,-122.414,47.3125,"CDP",413
+910,910,905,900,762,837,0.00552,"Northwest","Bell Hill","WA","Washington","53009|53031","Clallam County",343,"washington/bell-hill",2.651,-123.087,48.055,"CDP",414
+910,910,885,823,808,504,0.02825,"East","George","WA","Washington","53025|53017","Grant County",660,"washington/george",1.378,-119.862,47.0831,"City",415
+888,888,885,882,943,844,0.00339,"Northwest","Marrowstone","WA","Washington","53031","Jefferson County",141,"washington/marrowstone",6.3,-122.684,48.032,"CDP",416
+887,887,880,874,889,797,0.00795,"West","Brinnon","WA","Washington","53031","Jefferson County",93,"washington/brinnon",9.589,-122.917,47.6686,"CDP",417
+882,882,878,873,759,818,0.00456,"West","May Creek","WA","Washington","53061","Snohomish County",1387,"washington/may-creek",0.636,-121.674,47.8555,"CDP",418
+878,878,816,753,615,0,0.07598,"Northwest","Roche Harbor","WA","Washington","53055","San Juan County",219,"washington/roche-harbor",4.016,-123.131,48.6074,"CDP",419
+866,866,844,822,771,557,0.02607,"Southwest","Trout Lake","WA","Washington","53039","Klickitat County",125,"washington/trout-lake",6.94,-121.529,45.9978,"CDP",420
+864,864,881,898,854,1105,-0.0193,"West","Seabeck","WA","Washington","53035|53045","Kitsap County",260,"washington/seabeck",3.318,-122.818,47.6443,"CDP",421
+858,858,829,800,718,454,0.03498,"Northwest","River Road","WA","Washington","53009|53031","Clallam County",2438,"washington/river-road",0.352,-123.128,48.0677,"CDP",422
+839,839,844,850,783,916,-0.00592,"West","Port Gamble Tribal Community","WA","Washington","53035","Kitsap County",198,"washington/port-gamble-tribal-community",4.229,-122.557,47.8462,"CDP",423
+820,820,822,823,657,840,-0.00243,"West","Taholah","WA","Washington","53027","Grays Harbor County",237,"washington/taholah",3.458,-124.273,47.326,"CDP",424
+805,805,762,731,633,720,0.05643,"Southwest","Toledo","WA","Washington","53041","Lewis County",2043,"washington/toledo",0.394,-122.852,46.4447,"City",425
+804,804,805,803,808,780,-0.00124,"East","Tekoa","WA","Washington","16009|53063|53075","Benewah County",656,"washington/tekoa",1.226,-117.073,47.2247,"City",426
+800,800,793,788,770,759,0.00883,"Southwest","Mossyrock","WA","Washington","53041","Lewis County",1163,"washington/mossyrock",0.688,-122.489,46.5305,"City",427
+796,796,765,734,737,363,0.04052,"Northwest","Clallam Bay","WA","Washington","53009","Clallam County",1409,"washington/clallam-bay",0.565,-124.258,48.2535,"CDP",428
+787,787,796,804,821,779,-0.01131,"West","Roy","WA","Washington","53053","Pierce County",1629,"washington/roy",0.483,-122.541,46.9899,"City",429
+784,784,776,768,638,675,0.01031,"West","Satsop","WA","Washington","53027|53045","Grays Harbor County",112,"washington/satsop",7.02,-123.483,47.0229,"CDP",430
+782,782,787,794,800,704,-0.00635,"Northwest","Concrete","WA","Washington","53057|53073","Skagit County",667,"washington/concrete",1.173,-121.755,48.5326,"Town",431
+772,772,774,774,780,715,-0.00258,"Southwest","Bingen","WA","Washington","53039|53059","Klickitat County",1241,"washington/bingen",0.622,-121.472,45.7131,"City",432
+751,751,713,675,489,217,0.0533,"Southwest","Ashford","WA","Washington","53041|53053","Lewis County",304,"washington/ashford",2.467,-122.015,46.7549,"CDP",433
+737,737,737,736,736,607,0,"West","Carbonado","WA","Washington","53053","Pierce County",1772,"washington/carbonado",0.416,-122.052,47.0823,"Town",434
+730,730,728,729,721,688,0.00275,"Southwest","Oakville","WA","Washington","53027|53041|53067","Grays Harbor County",1322,"washington/oakville",0.552,-123.234,46.8401,"City",435
+699,699,682,679,631,621,0.02493,"Southwest","Vader","WA","Washington","53041","Lewis County",752,"washington/vader",0.929,-122.957,46.4045,"City",436
+691,691,679,673,642,570,0.01767,"East","Reardan","WA","Washington","53043|53063","Lincoln County",1393,"washington/reardan",0.496,-117.879,47.6701,"Town",437
+688,688,695,702,689,783,-0.01007,"Northeast","Loon Lake","WA","Washington","53065","Stevens County",211,"washington/loon-lake",3.263,-117.626,48.0704,"CDP",438
+672,672,666,659,646,629,0.00901,"Southwest","Pe Ell","WA","Washington","53041","Lewis County",1137,"washington/pe-ell",0.591,-123.298,46.5713,"Town",439
+664,664,646,629,585,419,0.02786,"Southwest","Naselle","WA","Washington","53049|53069","Pacific County",292,"washington/naselle",2.272,-123.782,46.3705,"CDP",440
+648,648,646,644,635,617,0.0031,"West","Skokomish","WA","Washington","53045","Mason County",97,"washington/skokomish",6.669,-123.159,47.3283,"CDP",441
+647,647,649,651,771,676,-0.00308,"West","Startup","WA","Washington","53061","Snohomish County",151,"washington/startup",4.276,-121.754,47.8742,"CDP",442
+642,642,631,620,512,491,0.01743,"Southwest","East Cathlamet","WA","Washington","53069","Wahkiakum County",375,"washington/east-cathlamet",1.71,-123.36,46.1983,"CDP",443
+625,625,630,635,666,696,-0.00794,"Northwest","Bay View","WA","Washington","53057","Skagit County",241,"washington/bay-view",2.597,-122.463,48.487,"CDP",444
+621,621,615,616,597,562,0.00976,"Southwest","Bucoda","WA","Washington","53067|53041","Thurston County",1065,"washington/bucoda",0.583,-122.87,46.7953,"Town",445
+617,617,611,608,592,679,0.00982,"North","Pateros","WA","Washington","53007|53047","Chelan County",1222,"washington/pateros",0.505,-119.9,48.0531,"City",446
+616,616,610,611,591,549,0.00984,"East","Rosalia","WA","Washington","53063|53075","Spokane County",981,"washington/rosalia",0.628,-117.376,47.2363,"Town",447
+612,612,611,610,664,596,0.00164,"West","Quilcene","WA","Washington","53031","Jefferson County",69,"washington/quilcene",8.811,-122.912,47.8392,"CDP",448
+606,606,595,585,579,462,0.01849,"Northeast","Curlew Lake","WA","Washington","53019|53047","Ferry County",139,"washington/curlew-lake",4.352,-118.668,48.7329,"CDP",449
+605,605,594,578,561,533,0.01852,"Southwest","Cathlamet","WA","Washington","53069","Wahkiakum County",1196,"washington/cathlamet",0.506,-123.384,46.2058,"Town",450
+602,602,578,556,506,405,0.04152,"North","Winthrop","WA","Washington","53047","Okanogan County",625,"washington/winthrop",0.963,-120.179,48.4716,"Town",451
+596,596,594,593,591,575,0.00337,"West","Nisqually Indian Community","WA","Washington","53067","Thurston County",195,"washington/nisqually-indian-community",3.052,-122.68,47.0291,"CDP",452
+595,595,597,599,431,621,-0.00335,"Southwest","Onalaska","WA","Washington","53041","Lewis County",371,"washington/onalaska",1.604,-122.711,46.5782,"CDP",453
+595,595,595,595,595,543,0,"East","St. John","WA","Washington","53075","Whitman County",887,"washington/st-john",0.671,-117.589,47.0915,"Town",454
+589,589,590,597,593,614,-0.00169,"East","Fairfield","WA","Washington","53063","Spokane County",956,"washington/fairfield",0.616,-117.175,47.3848,"Town",455
+589,589,574,566,527,473,0.02613,"East","Rockford","WA","Washington","53063","Spokane County",887,"washington/rockford",0.664,-117.131,47.4515,"Town",456
+573,573,568,564,515,512,0.0088,"East","Four Lakes","WA","Washington","53063|53075","Spokane County",185,"washington/four-lakes",3.089,-117.579,47.5626,"CDP",457
+566,566,570,575,581,626,-0.00702,"South","Harrah","WA","Washington","53077","Yakima County",2073,"washington/harrah",0.273,-120.541,46.4061,"Town",458
+560,560,556,550,543,590,0.00719,"Southeast","Albion","WA","Washington","53075","Whitman County",1429,"washington/albion",0.392,-117.251,46.7916,"Town",459
+560,560,560,559,558,599,0,"East","Garfield","WA","Washington","53075","Whitman County",596,"washington/garfield",0.94,-117.14,47.0102,"Town",460
+555,555,556,563,559,530,-0.0018,"West","South Cle Elum","WA","Washington","53037","Kittitas County",1381,"washington/south-cle-elum",0.402,-120.953,47.1862,"Town",461
+551,551,551,551,550,562,0,"East","Coulee City","WA","Washington","53017|53025","Douglas County",596,"washington/coulee-city",0.924,-119.29,47.6117,"Town",462
+533,533,526,528,505,445,0.01331,"East","Sprague","WA","Washington","53001|53043|53063","Adams County",507,"washington/sprague",1.052,-117.971,47.3049,"City",463
+529,529,515,502,537,342,0.02718,"Southwest","Wishram","WA","Washington","53039","Klickitat County",320,"washington/wishram",1.654,-120.971,45.6613,"CDP",464
+527,527,540,554,623,716,-0.02407,"West","McKenna","WA","Washington","53053","Pierce County",484,"washington/mckenna",1.088,-122.55,46.9347,"CDP",465
+522,522,542,561,793,793,-0.0369,"South","White Swan","WA","Washington","53077","Yakima County",196,"washington/white-swan",2.667,-120.738,46.377,"CDP",466
+520,520,496,473,478,192,0.04839,"Northwest","Lake McMurray","WA","Washington","53057","Skagit County",376,"washington/lake-mcmurray",1.382,-122.233,48.3193,"CDP",467
+517,517,522,529,535,564,-0.00958,"East","Lind","WA","Washington","53001","Adams County",468,"washington/lind",1.105,-118.616,46.9703,"Town",468
+512,512,544,575,806,953,-0.05882,"Southwest","Grayland","WA","Washington","53027|53049","Grays Harbor County",75,"washington/grayland",6.838,-124.091,46.8416,"CDP",469
+496,496,490,485,357,421,0.01224,"Southeast","Touchet","WA","Washington","53071","Walla Walla County",408,"washington/touchet",1.215,-118.672,46.0411,"CDP",470
+488,488,467,445,475,185,0.04497,"Southwest","Lower Elochoman","WA","Washington","53069","Wahkiakum County",323,"washington/lower-elochoman",1.511,-123.37,46.2185,"CDP",471
+479,479,487,495,255,592,-0.01643,"West","Gorst","WA","Washington","53035|53045","Kitsap County",754,"washington/gorst",0.635,-122.704,47.5245,"CDP",472
+479,479,467,455,286,312,0.0257,"South","Tampico","WA","Washington","53077","Yakima County",116,"washington/tampico",4.133,-120.875,46.5322,"CDP",473
+478,478,484,489,501,481,-0.0124,"West","Wilkeson","WA","Washington","53053","Pierce County",1026,"washington/wilkeson",0.466,-122.052,47.1013,"Town",474
+468,468,506,543,845,990,-0.0751,"South","Buena","WA","Washington","53077","Yakima County",539,"washington/buena",0.869,-120.318,46.4277,"CDP",475
+461,461,454,449,431,426,0.01542,"East","Harrington","WA","Washington","53043","Lincoln County",1182,"washington/harrington",0.39,-118.255,47.4802,"City",476
+456,456,451,449,436,443,0.01109,"Northeast","Ione","WA","Washington","53051","Pend Oreille County",862,"washington/ione",0.529,-117.422,48.7398,"Town",477
+450,450,450,451,416,459,0,"West","Raft Island","WA","Washington","53053","Pierce County",1625,"washington/raft-island",0.277,-122.667,47.3282,"CDP",478
+448,448,446,445,662,428,0.00448,"South","Cowiche","WA","Washington","53077","Yakima County",540,"washington/cowiche",0.83,-120.712,46.6719,"CDP",479
+448,448,438,429,320,317,0.02283,"Southwest","Rosburg","WA","Washington","53049|53069","Pacific County",20,"washington/rosburg",22.914,-123.643,46.3081,"CDP",480
+444,444,445,447,168,466,-0.00225,"Southwest","Chinook","WA","Washington","53049","Pacific County",441,"washington/chinook",1.007,-123.942,46.2755,"CDP",481
+443,443,446,448,455,395,-0.00673,"West","Hunts Point","WA","Washington","53033","King County",1443,"washington/hunts-point",0.307,-122.229,47.643,"Town",482
+441,441,448,456,642,546,-0.01563,"Southwest","Cherry Grove","WA","Washington","53011","Clark County",190,"washington/cherry-grove",2.317,-122.577,45.8022,"CDP",483
+439,439,433,427,174,353,0.01386,"Northwest","Deming","WA","Washington","53073","Whatcom County",160,"washington/deming",2.752,-122.236,48.8304,"CDP",484
+438,438,429,420,395,311,0.02098,"West","Snoqualmie Pass","WA","Washington","53033|53037","King County",150,"washington/snoqualmie-pass",2.924,-121.411,47.4014,"CDP",485
+430,430,428,425,401,395,0.00467,"Southwest","Ryderwood","WA","Washington","53015","Cowlitz County",2671,"washington/ryderwood",0.161,-123.044,46.3749,"CDP",486
+417,417,419,421,423,439,-0.00477,"Northwest","Lyman","WA","Washington","53057|53073","Skagit County",621,"washington/lyman",0.671,-122.066,48.5238,"Town",487
+416,416,387,357,447,0,0.07494,"Northwest","Bow","WA","Washington","53057","Skagit County",356,"washington/bow",1.167,-122.408,48.5613,"CDP",488
+410,410,380,351,669,0,0.07895,"South","Schwana","WA","Washington","53025","Grant County",1633,"washington/schwana",0.251,-119.923,46.8221,"CDP",489
+407,407,405,400,398,431,0.00494,"Southeast","Colton","WA","Washington","53075","Whitman County",660,"washington/colton",0.617,-117.128,46.5675,"Town",490
+392,392,364,336,435,0,0.07692,"East","Marine View","WA","Washington","53001|53021|53025","Adams County",438,"washington/marine-view",0.895,-119.351,46.9637,"CDP",491
+392,392,392,393,392,422,0,"East","Oakesdale","WA","Washington","53075","Whitman County",377,"washington/oakesdale",1.04,-117.246,47.1305,"Town",492
+388,388,388,385,387,294,0,"Southeast","Uniontown","WA","Washington","53075","Whitman County",420,"washington/uniontown",0.923,-117.086,46.5391,"Town",493
+386,386,382,378,249,333,0.01047,"West","Kapowsin","WA","Washington","53053","Pierce County",94,"washington/kapowsin",4.12,-122.223,46.9684,"CDP",494
+384,384,385,387,387,498,-0.0026,"Southeast","Mesa","WA","Washington","53021","Franklin County",232,"washington/mesa",1.657,-119.001,46.5735,"City",495
+370,370,356,341,220,167,0.03933,"Northwest","Lake Cavanaugh","WA","Washington","53057","Skagit County",480,"washington/lake-cavanaugh",0.771,-122.011,48.3168,"CDP",496
+368,368,369,369,372,306,-0.00271,"Southeast","Prescott","WA","Washington","53013|53071","Columbia County",922,"washington/prescott",0.399,-118.313,46.2988,"City",497
+368,368,387,406,327,631,-0.0491,"West","Union","WA","Washington","53045","Mason County",227,"washington/union",1.624,-123.095,47.3475,"CDP",498
+359,359,334,308,0,0,0.07485,"South","Beverly","WA","Washington","53025","Grant County",1910,"washington/beverly",0.188,-119.93,46.8348,"CDP",499
+358,358,361,364,150,403,-0.00831,"Northwest","Alger","WA","Washington","53057|53073","Skagit County",137,"washington/alger",2.606,-122.329,48.6103,"CDP",500
+358,358,363,367,376,427,-0.01377,"West","South Prairie","WA","Washington","53053","Pierce County",935,"washington/south-prairie",0.383,-122.097,47.1354,"Town",501
+348,348,342,336,265,264,0.01754,"West","North Sultan","WA","Washington","53061","Snohomish County",618,"washington/north-sultan",0.563,-121.823,47.8827,"CDP",502
+348,348,344,340,158,292,0.01163,"South","Outlook","WA","Washington","53077","Yakima County",2677,"washington/outlook",0.13,-120.093,46.3312,"CDP",503
+346,346,371,395,410,688,-0.06739,"Northeast","North Omak","WA","Washington","53047","Okanogan County",31,"washington/north-omak",11.198,-119.446,48.444,"CDP",504
+336,336,333,329,562,285,0.00901,"Northwest","Verlot","WA","Washington","53061","Snohomish County",31,"washington/verlot",10.863,-121.759,48.102,"CDP",505
+335,335,332,334,322,283,0.00904,"East","Almira","WA","Washington","53025|53043","Grant County",653,"washington/almira",0.513,-118.937,47.7106,"Town",506
+335,335,324,313,241,180,0.03395,"Northwest","Oso","WA","Washington","53061","Snohomish County",119,"washington/oso",2.804,-121.916,48.2838,"CDP",507
+334,334,332,331,324,281,0.00602,"Northeast","Riverside","WA","Washington","53047","Okanogan County",377,"washington/riverside",0.887,-119.516,48.5129,"Town",508
+330,330,333,335,262,362,-0.00901,"Southwest","Klickitat","WA","Washington","53039","Klickitat County",352,"washington/klickitat",0.938,-121.163,45.818,"CDP",509
+328,328,328,324,327,320,0,"East","Mansfield","WA","Washington","53017","Douglas County",1012,"washington/mansfield",0.324,-119.638,47.8119,"Town",510
+326,326,332,338,325,409,-0.01807,"Northeast","Inchelium","WA","Washington","53019","Ferry County",12,"washington/inchelium",26.421,-118.246,48.3637,"CDP",511
+320,320,323,326,322,361,-0.00929,"Northwest","Jamestown","WA","Washington","53009|53031","Clallam County",549,"washington/jamestown",0.583,-123.091,48.1228,"CDP",512
+319,319,330,341,341,475,-0.03333,"West","Malone","WA","Washington","53027|53045","Grays Harbor County",35,"washington/malone",9.041,-123.297,46.9842,"CDP",513
+318,318,314,309,301,253,0.01274,"Northeast","Nespelem Community","WA","Washington","53047","Okanogan County",14,"washington/nespelem-community",23.494,-119.049,48.1625,"CDP",514
+305,305,306,306,308,299,-0.00327,"East","Endicott","WA","Washington","53075","Whitman County",1027,"washington/endicott",0.297,-117.687,46.9282,"Town",515
+303,303,316,328,302,478,-0.04114,"West","Easton","WA","Washington","53037","Kittitas County",94,"washington/easton",3.211,-121.16,47.2327,"CDP",516
+300,300,304,306,316,300,-0.01316,"West","Beaux Arts Village","WA","Washington","53033","King County",3614,"washington/beaux-arts-village",0.083,-122.204,47.5853,"Town",517
+295,295,296,295,297,313,-0.00338,"Southeast","LaCrosse","WA","Washington","53075","Whitman County",345,"washington/lacrosse",0.854,-117.918,46.7955,"Town",518
+293,293,295,298,301,301,-0.00678,"Northwest","Hamilton","WA","Washington","53057|53073","Skagit County",245,"washington/hamilton",1.197,-121.995,48.5225,"Town",519
+293,293,292,293,289,298,0.00342,"Northeast","Northport","WA","Washington","53065","Stevens County",517,"washington/northport",0.567,-117.78,48.9158,"Town",520
+290,290,296,301,298,366,-0.02027,"Northwest","Custer","WA","Washington","53073","Whatcom County",129,"washington/custer",2.244,-122.637,48.9128,"CDP",521
+287,287,284,283,274,238,0.01056,"Northeast","Metaline Falls","WA","Washington","53051","Pend Oreille County",1442,"washington/metaline-falls",0.199,-117.372,48.8613,"Town",522
+283,283,272,257,239,280,0.04044,"Northeast","Springdale","WA","Washington","53065","Stevens County",250,"washington/springdale",1.131,-117.747,48.0572,"Town",523
+276,276,278,281,282,278,-0.00719,"East","Spangle","WA","Washington","53063","Spokane County",791,"washington/spangle",0.349,-117.381,47.4299,"City",524
+275,275,256,236,0,0,0.07422,"East","Wheeler","WA","Washington","53025","Grant County",1244,"washington/wheeler",0.221,-119.176,47.1349,"CDP",525
+273,273,283,293,515,415,-0.03534,"West","Copalis Beach","WA","Washington","53027","Grays Harbor County",75,"washington/copalis-beach",3.66,-124.166,47.1246,"CDP",526
+272,272,272,273,305,279,0,"West","Aberdeen Gardens","WA","Washington","53027","Grays Harbor County",167,"washington/aberdeen-gardens",1.624,-123.778,47.0573,"CDP",527
+272,272,275,278,317,315,-0.01091,"West","Neilton","WA","Washington","53027","Grays Harbor County",28,"washington/neilton",9.669,-123.878,47.4031,"CDP",528
+269,269,279,288,268,401,-0.03584,"Southwest","Skamokawa Valley","WA","Washington","53069","Wahkiakum County",10,"washington/skamokawa-valley",28.197,-123.401,46.3152,"CDP",529
+265,265,246,227,154,0,0.07724,"Northeast","Torboy","WA","Washington","53019|53047","Ferry County",286,"washington/torboy",0.927,-118.669,48.6693,"CDP",530
+262,262,244,225,207,0,0.07377,"Central","Crescent Bar","WA","Washington","53017|53025","Douglas County",260,"washington/crescent-bar",1.006,-119.997,47.2166,"CDP",531
+260,260,258,256,204,234,0.00775,"Northeast","Keller","WA","Washington","53019","Ferry County",27,"washington/keller",9.515,-118.716,48.0852,"CDP",532
+257,257,238,220,303,0,0.07983,"Southwest","Glenwood","WA","Washington","53039","Klickitat County",275,"washington/glenwood",0.936,-121.293,46.0228,"CDP",533
+257,257,247,239,215,203,0.04049,"East","Malden","WA","Washington","53075","Whitman County",391,"washington/malden",0.658,-117.473,47.2296,"Town",534
+256,256,256,257,309,263,0,"Southwest","Grays River","WA","Washington","53049|53069","Pacific County",13,"washington/grays-river",20.185,-123.581,46.3679,"CDP",535
+248,248,309,370,814,1101,-0.19741,"West","Ravensdale","WA","Washington","53033","King County",200,"washington/ravensdale",1.239,-121.98,47.3619,"CDP",536
+246,246,244,241,142,211,0.0082,"Northwest","Glacier","WA","Washington","53073","Whatcom County",147,"washington/glacier",1.674,-121.932,48.8921,"CDP",537
+245,245,244,244,241,251,0.0041,"Northeast","Elmer City","WA","Washington","53017|53025|53047","Douglas County",1029,"washington/elmer-city",0.238,-118.954,48.0015,"Town",538
+243,243,244,245,227,255,-0.0041,"West","Humptulips","WA","Washington","53027","Grays Harbor County",26,"washington/humptulips",9.323,-123.981,47.2337,"CDP",539
+242,242,246,251,202,308,-0.01626,"West","Ronald","WA","Washington","53037","Kittitas County",261,"washington/ronald",0.926,-121.033,47.2338,"CDP",540
+239,239,262,284,339,554,-0.08779,"West","Keyport","WA","Washington","53035","Kitsap County",478,"washington/keyport",0.5,-122.624,47.7002,"CDP",541
+237,237,228,219,88,109,0.03947,"Southwest","La Grande","WA","Washington","53053","Pierce County",56,"washington/la-grande",4.256,-122.283,46.8107,"CDP",542
+234,234,230,227,216,233,0.01739,"East","Creston","WA","Washington","53043","Lincoln County",565,"washington/creston",0.414,-118.52,47.7594,"Town",543
+219,219,255,291,516,722,-0.14118,"Southwest","Cohassett Beach","WA","Washington","53027","Grays Harbor County",169,"washington/cohassett-beach",1.299,-124.106,46.8649,"CDP",544
+219,219,218,218,215,171,0.00459,"Northeast","Marcus","WA","Washington","53019|53065","Ferry County",1000,"washington/marcus",0.219,-118.06,48.6643,"Town",545
+216,216,223,231,226,324,-0.03139,"Northwest","Maple Falls","WA","Washington","53073","Whatcom County",101,"washington/maple-falls",2.144,-122.091,48.9188,"CDP",546
+213,213,234,254,267,499,-0.08974,"Southwest","Lyle","WA","Washington","53039","Klickitat County",302,"washington/lyle",0.706,-121.281,45.6956,"CDP",547
+211,211,206,200,264,133,0.02427,"Northwest","Edison","WA","Washington","53057","Skagit County",165,"washington/edison",1.282,-122.434,48.5676,"CDP",548
+204,204,205,206,205,220,-0.00488,"West","Baring","WA","Washington","53033","King County",196,"washington/baring",1.043,-121.482,47.7686,"CDP",549
+201,201,199,197,113,174,0.01005,"East","Banks Lake South","WA","Washington","53017|53025","Douglas County",83,"washington/banks-lake-south",2.435,-119.274,47.6301,"CDP",550
+201,201,202,203,205,206,-0.00495,"East","Wilson Creek","WA","Washington","53025","Grant County",208,"washington/wilson-creek",0.966,-119.118,47.423,"Town",551
+198,198,195,192,108,156,0.01538,"South","Roosevelt","WA","Washington","53039","Klickitat County",52,"washington/roosevelt",3.788,-120.237,45.7331,"CDP",552
+198,198,200,201,204,208,-0.01,"Southeast","Washtucna","WA","Washington","53001|53021","Adams County",299,"washington/washtucna",0.662,-118.311,46.7539,"Town",553
+197,197,198,198,121,203,-0.00505,"Northwest","Marblemount","WA","Washington","53057|53073","Skagit County",53,"washington/marblemount",3.702,-121.44,48.5418,"CDP",554
+195,195,194,195,191,201,0.00515,"Northeast","Conconully","WA","Washington","53047","Okanogan County",924,"washington/conconully",0.211,-119.752,48.5586,"Town",555
+193,193,192,190,187,232,0.00521,"Northeast","Nespelem","WA","Washington","53047","Okanogan County",995,"washington/nespelem",0.194,-118.972,48.1669,"Town",556
+185,185,179,173,45,101,0.03352,"Northwest","Blyn","WA","Washington","53009|53031","Clallam County",39,"washington/blyn",4.783,-122.98,48.0095,"CDP",557
+183,183,175,162,151,203,0.04571,"Northeast","Cusick","WA","Washington","53051","Pend Oreille County",360,"washington/cusick",0.508,-117.292,48.3285,"Town",558
+176,176,177,178,179,151,-0.00565,"East","Hartline","WA","Washington","53025","Grant County",527,"washington/hartline",0.334,-119.108,47.6894,"Town",559
+175,175,192,209,307,415,-0.08854,"South","Eschbach","WA","Washington","53077","Yakima County",149,"washington/eschbach",1.175,-120.633,46.6651,"CDP",560
+173,173,175,178,122,210,-0.01143,"Southwest","Willapa","WA","Washington","53049","Pacific County",622,"washington/willapa",0.278,-123.665,46.6754,"CDP",561
+172,172,174,176,178,180,-0.01149,"East","Latah","WA","Washington","53063","Spokane County",538,"washington/latah",0.32,-117.156,47.2821,"Town",562
+169,169,169,168,69,160,0,"Southwest","Lebam","WA","Washington","53049","Pacific County",116,"washington/lebam",1.461,-123.551,46.5641,"CDP",563
+169,169,167,166,161,172,0.01198,"Northeast","Metaline","WA","Washington","53051","Pend Oreille County",552,"washington/metaline",0.306,-117.387,48.8523,"Town",564
+164,164,172,180,152,276,-0.04651,"Southwest","Bay Center","WA","Washington","53049","Pacific County",174,"washington/bay-center",0.941,-123.953,46.6208,"CDP",565
+157,157,157,155,155,176,0,"West","Index","WA","Washington","53061","Snohomish County",683,"washington/index",0.23,-121.556,47.8213,"Town",566
+153,153,156,159,164,198,-0.01923,"West","Skykomish","WA","Washington","53033","King County",487,"washington/skykomish",0.314,-121.356,47.7099,"Town",567
+152,152,155,159,169,204,-0.01935,"Southwest","Deep River","WA","Washington","53049|53069","Pacific County",11,"washington/deep-river",13.276,-123.705,46.3536,"CDP",568
+149,149,153,156,170,197,-0.02614,"Southeast","Dixie","WA","Washington","53071|53013","Walla Walla County",348,"washington/dixie",0.428,-118.152,46.1404,"CDP",569
+147,147,136,126,0,0,0.08088,"South","Donald","WA","Washington","53077","Yakima County",138,"washington/donald",1.067,-120.397,46.4764,"CDP",570
+142,142,137,132,120,126,0.0365,"Southeast","Starbuck","WA","Washington","53013","Columbia County",721,"washington/starbuck",0.197,-118.129,46.5216,"Town",571
+136,136,135,136,131,150,0.00741,"East","Farmington","WA","Washington","16057|53075","Latah County",376,"washington/farmington",0.362,-117.046,47.0887,"Town",572
+136,136,138,140,142,190,-0.01449,"Southeast","Kahlotus","WA","Washington","53021","Franklin County",358,"washington/kahlotus",0.38,-118.556,46.6432,"City",573
+136,136,134,132,79,111,0.01493,"West","Markham","WA","Washington","53027","Grays Harbor County",121,"washington/markham",1.124,-123.988,46.9142,"CDP",574
+136,136,141,146,129,207,-0.03546,"West","Porter","WA","Washington","53027|53045","Grays Harbor County",15,"washington/porter",8.873,-123.28,46.9487,"CDP",575
+130,130,120,111,190,0,0.08333,"West","Ocosta","WA","Washington","53027","Grays Harbor County",43,"washington/ocosta",3.003,-124.033,46.8855,"CDP",576
+129,129,174,219,366,761,-0.25862,"East","Green Bluff","WA","Washington","53063","Spokane County",18,"washington/green-bluff",7.072,-117.275,47.8184,"CDP",577
+128,128,119,110,65,0,0.07563,"Central","Sunland Estates","WA","Washington","53017|53025","Douglas County",318,"washington/sunland-estates",0.403,-120.028,47.0741,"CDP",578
+126,126,144,162,139,376,-0.125,"West","Hoodsport","WA","Washington","53045","Mason County",120,"washington/hoodsport",1.054,-123.154,47.402,"CDP",579
+119,119,120,122,121,106,-0.00833,"East","Waverly","WA","Washington","53063","Spokane County",288,"washington/waverly",0.413,-117.231,47.3381,"Town",580
+117,117,120,122,50,151,-0.025,"West","Herron Island","WA","Washington","53053","Pierce County",246,"washington/herron-island",0.476,-122.832,47.2675,"CDP",581
+113,113,113,113,118,112,0,"South","Centerville","WA","Washington","53039","Klickitat County",34,"washington/centerville",3.317,-120.908,45.754,"CDP",582
+113,113,105,97,77,0,0.07619,"West","Greenwater","WA","Washington","53033|53053","King County",78,"washington/greenwater",1.452,-121.628,47.1442,"CDP",583
+111,111,113,115,90,140,-0.0177,"Southwest","Nile","WA","Washington","53077","Yakima County",121,"washington/nile",0.917,-120.944,46.8349,"CDP",584
+107,107,115,124,134,227,-0.06957,"Southwest","Alder","WA","Washington","53053","Pierce County",33,"washington/alder",3.213,-122.261,46.782,"CDP",585
+106,106,107,108,51,118,-0.00935,"Northeast","Curlew","WA","Washington","53019","Ferry County",140,"washington/curlew",0.755,-118.605,48.8777,"CDP",586
+105,105,98,90,126,0,0.07143,"North","Methow","WA","Washington","53047","Okanogan County",156,"washington/methow",0.675,-120.005,48.1311,"CDP",587
+104,104,109,114,183,174,-0.04587,"West","Queets","WA","Washington","53009|53031","Clallam County",75,"washington/queets",1.393,-124.345,47.5263,"CDP",588
+96,96,89,82,70,0,0.07865,"Northeast","Danville","WA","Washington","53019","Ferry County",545,"washington/danville",0.176,-118.507,48.9936,"CDP",589
+94,94,98,102,184,151,-0.04082,"Southwest","Tokeland","WA","Washington","53049","Pacific County",183,"washington/tokeland",0.513,-123.983,46.7088,"CDP",590
+93,93,100,107,119,193,-0.07,"Southwest","Upper Elochoman","WA","Washington","53069","Wahkiakum County",64,"washington/upper-elochoman",1.448,-123.325,46.2403,"CDP",591
+92,92,99,107,154,200,-0.07071,"West","Ocean City","WA","Washington","53027","Grays Harbor County",28,"washington/ocean-city",3.337,-124.157,47.0825,"CDP",592
+91,91,102,113,123,246,-0.10784,"Northwest","Acme","WA","Washington","53073","Whatcom County",61,"washington/acme",1.499,-122.21,48.7164,"CDP",593
+91,91,84,78,100,0,0.08333,"South","Bickleton","WA","Washington","53039","Klickitat County",19,"washington/bickleton",4.685,-120.308,46.0056,"CDP",594
+90,90,83,77,119,0,0.08434,"Southeast","Pataha","WA","Washington","53013|53023|53075","Columbia County",255,"washington/pataha",0.353,-117.544,46.4727,"CDP",595
+88,88,93,98,101,159,-0.05376,"Northeast","Loomis","WA","Washington","53047","Okanogan County",100,"washington/loomis",0.878,-119.64,48.8233,"CDP",596
+88,88,81,75,71,0,0.08642,"West","Santiago","WA","Washington","53027","Grays Harbor County",56,"washington/santiago",1.568,-124.232,47.2988,"CDP",597
+87,87,93,100,135,180,-0.06452,"East","Steptoe","WA","Washington","53075","Whitman County",39,"washington/steptoe",2.219,-117.35,47.0074,"CDP",598
+86,86,85,82,81,101,0.01176,"Southeast","Hatton","WA","Washington","53001|53021|53025","Adams County",231,"washington/hatton",0.372,-118.828,46.7735,"Town",599
+86,86,80,74,71,0,0.075,"Northeast","Twin Lakes","WA","Washington","53019","Ferry County",21,"washington/twin-lakes",4.173,-118.359,48.2622,"CDP",600
+83,83,88,92,122,146,-0.05682,"Northeast","Valley","WA","Washington","53065","Stevens County",194,"washington/valley",0.428,-117.724,48.1729,"CDP",601
+82,82,81,79,77,70,0.01235,"East","Lamont","WA","Washington","53075","Whitman County",283,"washington/lamont",0.29,-117.905,47.2007,"Town",602
+79,79,85,90,49,154,-0.07059,"South","Parker","WA","Washington","53077","Yakima County",669,"washington/parker",0.118,-120.467,46.5022,"CDP",603
+78,78,97,116,294,342,-0.19588,"Southwest","Packwood","WA","Washington","53041","Lewis County",78,"washington/packwood",0.997,-121.67,46.6085,"CDP",604
+74,74,101,127,361,443,-0.26733,"Northeast","Clayton","WA","Washington","53063|53065","Spokane County",57,"washington/clayton",1.29,-117.561,48.0012,"CDP",605
+73,73,80,88,151,179,-0.0875,"Southeast","Wallula","WA","Washington","53071","Walla Walla County",695,"washington/wallula",0.105,-118.906,46.0847,"CDP",606
+69,69,87,106,50,329,-0.2069,"Central","Chelan Falls","WA","Washington","53007|53047","Chelan County",247,"washington/chelan-falls",0.279,-119.988,47.7994,"CDP",607
+65,65,61,56,44,0,0.06557,"Northwest","Sekiu","WA","Washington","53009","Clallam County",508,"washington/sekiu",0.128,-124.303,48.263,"CDP",608
+65,65,78,90,109,240,-0.16667,"Central","Thorp","WA","Washington","53037","Kittitas County",53,"washington/thorp",1.221,-120.671,47.0655,"CDP",609
+63,63,58,54,49,0,0.08621,"Northeast","Barstow","WA","Washington","53019|53065","Ferry County",112,"washington/barstow",0.56,-118.133,48.7783,"CDP",610
+62,62,57,53,35,0,0.08772,"Southwest","Altoona","WA","Washington","53069","Wahkiakum County",12,"washington/altoona",5.091,-123.621,46.2697,"CDP",611
+60,60,55,51,0,0,0.09091,"West","Oyehut","WA","Washington","53027","Grays Harbor County",100,"washington/oyehut",0.6,-124.165,47.0226,"CDP",612
+57,57,53,49,56,0,0.07547,"West","Qui-nai-elt Village","WA","Washington","53027","Grays Harbor County",78,"washington/qui-nai-elt-village",0.735,-124.19,47.2502,"CDP",613
+56,56,67,78,49,207,-0.16418,"West","Moclips","WA","Washington","53027","Grays Harbor County",31,"washington/moclips",1.784,-124.198,47.2294,"CDP",614
+54,54,57,61,136,104,-0.05263,"West","Cliffdell","WA","Washington","53077","Yakima County",29,"washington/cliffdell",1.843,-121.043,46.9222,"CDP",615
+52,52,49,45,40,0,0.06122,"Northwest","Conway","WA","Washington","53057","Skagit County",227,"washington/conway",0.229,-122.344,48.3357,"CDP",616
+51,51,55,59,27,109,-0.07273,"Northwest","Rockport","WA","Washington","53057|53073","Skagit County",140,"washington/rockport",0.364,-121.608,48.4847,"CDP",617
+47,47,47,48,47,48,0,"East","Krupp","WA","Washington","53001|53025|53043","Adams County",81,"washington/krupp",0.583,-118.989,47.4105,"Town",618
+47,47,58,69,135,202,-0.18966,"Southwest","Mineral","WA","Washington","53041","Lewis County",71,"washington/mineral",0.666,-122.186,46.7193,"CDP",619
+43,43,40,37,44,0,0.075,"South","Maryhill","WA","Washington","53039","Klickitat County",15,"washington/maryhill",2.817,-120.807,45.6928,"CDP",620
+41,41,56,71,84,252,-0.26786,"West","Amanda Park","WA","Washington","53027","Grays Harbor County",5,"washington/amanda-park",8.222,-123.925,47.4539,"CDP",621
+40,40,37,34,52,0,0.08108,"Northeast","Boyds","WA","Washington","53019|53065","Ferry County",205,"washington/boyds",0.195,-118.132,48.7244,"CDP",622
+40,40,58,76,214,291,-0.31034,"West","Pacific Beach","WA","Washington","53027","Grays Harbor County",33,"washington/pacific-beach",1.208,-124.197,47.2141,"CDP",623
+38,38,36,33,93,0,0.05556,"Southwest","Cougar","WA","Washington","53015|53059","Cowlitz County",66,"washington/cougar",0.579,-122.303,46.0493,"CDP",624
+38,38,45,53,84,145,-0.15556,"Northeast","Pine Grove","WA","Washington","53019|53047","Ferry County",78,"washington/pine-grove",0.49,-118.684,48.6502,"CDP",625
+36,36,41,47,82,115,-0.12195,"Northeast","Orient","WA","Washington","53019","Ferry County",83,"washington/orient",0.432,-118.206,48.8638,"CDP",626
+34,34,42,50,79,149,-0.19048,"Northwest","Northwest Stanwood","WA","Washington","53057|53061","Skagit County",48,"washington/northwest-stanwood",0.713,-122.35,48.2623,"CDP",627
+32,32,29,27,45,0,0.10345,"Northeast","Malo","WA","Washington","53019","Ferry County",271,"washington/malo",0.118,-118.612,48.7997,"CDP",628
+24,24,23,21,61,0,0.04348,"Northwest","Hat Island","WA","Washington","53061","Snohomish County",35,"washington/hat-island",0.688,-122.321,48.0134,"CDP",629
+21,21,20,18,15,0,0.05,"Northeast","Disautel","WA","Washington","53047","Okanogan County",5,"washington/disautel",3.919,-119.23,48.3445,"CDP",630
+14,14,13,12,14,0,0.07692,"Northwest","Silvana","WA","Washington","53057|53061","Skagit County",9,"washington/silvana",1.532,-122.246,48.2019,"CDP",631
+10,10,10,9,11,0,0,"Southeast","Anatone","WA","Washington","53003","Asotin County",83,"washington/anatone",0.12,-117.132,46.1354,"CDP",632
+9,9,9,8,0,0,0,"West","Hogans Corner","WA","Washington","53027","Grays Harbor County",29,"washington/hogans-corner",0.308,-124.162,47.0415,"CDP",633
+6,6,16,26,169,146,-0.625,"Northeast","Barney's Junction","WA","Washington","53019|53065","Ferry County",23,"washington/barneys-junction",0.26,-118.129,48.6204,"CDP",634
